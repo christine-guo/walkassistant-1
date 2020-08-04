@@ -1,5 +1,5 @@
 import json
-import urllib
+import urllib.request
 import cv2
 
 class Annotation(object):
@@ -32,6 +32,29 @@ def dumper(obj):
         return obj.toJSON()
     except:
         return obj.__dict__
+
+# downloads image from link and returns the file name
+def download_image(image):
+    link = image.get("Original Image")
+    link_split = link.split(".jpg")
+    image_name = link_split[0].split('/')[-1] + ".jpg"
+    urllib.request.urlretrieve(link, filename=image_name)
+    return image_name
+
+# draw bbx onto each image
+def render_images(images, filenames):
+    for index, image_data in enumerate(images):
+        image = cv2.imread(filenames[index])
+        annotations = image_data.get("Annotations")
+        for annotation in annotations:
+            x = annotation.get_x()
+            y = annotation.get_y()
+            start_point = (x, y)
+            height = annotation.get_height()
+            width = annotation.get_width()
+            end_point = (x + width, y + height)
+            image = cv2.rectangle(image, start_point, end_point, (255, 0, 0), 2)
+            cv2.imwrite(filenames[index], image)
 
 # read json file into a dictionary
 json_file = 'annotations.json'
@@ -69,31 +92,6 @@ for image in json_data:
         results.append(image_data)
 
 
-all_image_names = []
-# download each image from link and save file name to list
-for image in results:
-    link = image.get("Original Image")
-    link_split = link.split(".jpg")
-    image_name = link_split[0].split('/')[-1] + ".jpg"
-    urllib.urlretrieve(link, image_name)
-    all_image_names.append(image_name)
-
-
-# draw bbx onto image
-for index, image_data in enumerate(results):
-    image_file = all_image_names[index]
-    image = cv2.imread(image_file)
-    for annotation in image.get("Annotation"):
-        x = annotation.get_x()
-        y = annotation.get_y()
-        start_point = (x, y)
-        height = annotation.get_height()
-        width = annotation.get_width()
-        end_point = (x + width, y + height)
-        image = cv2.rectangle(image, start_point, end_point, (0, 0, 0), 2)
-        cv2.imwrite(image_file, image)
-
-
 # get statistics
 num_annotations = 0
 num_door = 0
@@ -124,7 +122,6 @@ for image in results:
             num_stairs += 1
         else:
             num_ramp += 1
-
 print("Number of Annotations = " + str(num_annotations))
 print("Number of Doors = " + str(num_door))
 print("\t Single = " + str(num_single))
@@ -134,3 +131,10 @@ print("\t Revolving = " + str(num_revolving))
 print("Number of Knobs = " + str(num_knob))
 print("Number of Stairs = " + str(num_stairs))
 print("Number of Ramps = " + str(num_ramp))
+
+all_files = []
+# test first 10 images
+for image in results[0:10]:
+    image_file = download_image(image)
+    all_files.append(image_file)
+render_images(results[0:10], all_files)
