@@ -1,0 +1,92 @@
+
+<!doctype html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Blank template</title>
+    </head>
+
+    <body>
+        <h1>Store Locator</h1>
+        <p>
+        Select region:
+        <select id="select_region">
+            <option value="Basking Ridge">Basking Ridge</option>
+            <option value="Warren">Warren</option>
+        </select>
+        </p>
+        <p>
+        Select store type:
+        <select id="select_type">
+            <option value="restaurant">restaurant</option>
+            <option value="drug store">drug store</option>
+        </select>
+        </p>
+        <button onclick="displayStores()">
+        Go
+    </button>
+
+     <script type="text/javascript">
+        function displayStores() {
+            selectElement = document.querySelector('#select_region');
+            region =
+              selectElement.options[selectElement.selectedIndex].value;
+            selectElement = document.querySelector('#select_type');
+            store_type =
+              selectElement.options[selectElement.selectedIndex].value;
+            display(region, store_type);
+        }
+    </script>
+
+
+<p id="demo"></p>
+
+<script type="text/javascript">
+function display(region, store_type){
+var dataset = {};
+dataset["Basking Ridge"] = {};
+dataset["Basking Ridge"]["restaurant"] = [
+{name:"Tsuru", address:"413 King George Rd, Basking Ridge, NJ 07920", accessibility: "Accessibility score: 0"},
+{name:"Chu's Cafe", address:"576 Allen Rd, Basking Ridge, NJ 07920", accessibility: "Accessibility score: 0"},
+{name:"Tandoori Mela", address:"562 Allen Rd, Basking Ridge, NJ 07920", accessibility: "Accessibility score: 0"},
+{name:"Red Oak Grille", address:"579 Allen Rd, Basking Ridge, NJ 07920", accessibility: "Accessibility score: 0"},
+{name:"Bella's Burger Shack", address:"52 S Finley Ave # 5C, Basking Ridge, NJ 07920", accessibility: "Accessibility score: 1"},
+];
+dataset["Basking Ridge"]["drug store"] = [
+{name:"Walgreens", address:"16 Lyons Mall, Basking Ridge, NJ 07920", accessibility: "Accessibility score: 0"},
+{name:"Riverwalk Pharmacy", address:"665 Martinsville Road, Basking Ridge, NJ 07920", accessibility: "Accessibility score: 1"},
+];
+
+dataset["Warren"] = {};
+dataset["Warren"]["restaurant"] = [
+{name:"Prezzo Italian Restaurant", address:"50 Mt Bethel Rd, Warren, NJ 07059", accessibility: "Accessibility score: 1"},
+{name:"Aikou", address:" 9 Mt Bethel Rd, Warren, NJ 07059", accessibility: "Accessibility score: 1"},
+{name:"BAGELS-4-U", address:"177 Washington Valley Rd, Warren, NJ 07060", accessibility: "Accessibility score: 1"},
+{name:"Turf N Surf Burger Grill", address:"51 Mt Bethel Rd, Warren, NJ 07059", accessibility: "Accessibility score: 1"},
+{name:"County Squire", address:"62 Mountain Blvd, Warren, NJ 07059", accessibility: "Accessibility score: 1"},
+];
+dataset["Warren"]["drug store"] = [
+{name:"Edgewood Pharmacy", address:"62 Mountain Blvd, Warren, NJ 07059", accessibility: "Accessibility score: 0"},
+{name:"Walgreens", address:"110 Mountain Blvd Ext, Warren, NJ 07059", accessibility: "Accessibility score: 0"},
+];
+
+var display_template = '<span style="white-space: pre-line"><h1 style="color:red;">name_placeholder</h1> <h3.5>address_placeholder</h3> <h3>accessibility_placeholder</h3> '
+
+var all_display = ""
+for (one_store of dataset[region][store_type]) {
+let str = display_template.replace("name_placeholder", one_store.name)
+str = str.replace("address_placeholder", one_store.address);
+all_display += str.replace("accessibility_placeholder", one_store.accessibility);
+}
+
+// Display some data from the object:
+document.getElementById("demo").innerHTML = all_display;
+}
+</script>
+        <!-- Load external JavaScript -->
+        <script src="scripts.js"></script>
+
+    </body>
+
+</html> 
