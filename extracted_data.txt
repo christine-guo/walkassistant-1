@@ -1,0 +1,6933 @@
+{
+  "ID": "ckc8ib9k5660o0y5qcq510tbi",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fbcec72e0-efdc-0910-cded-d05b531028e7-2_AV_s1_6.0.jpg?Expires=1596983127233&KeyName=labelbox-assets-key-1&Signature=nenxjvU44O6Yn5FoyKuVBA39bLU",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 247,
+      "y": 315,
+      "width": 58,
+      "height": 71,
+      "type": "Double"
+    },
+    {
+      "name": "Knob",
+      "x": 272,
+      "y": 358,
+      "width": 10,
+      "height": 12
+    }
+  ]
+}{
+  "ID": "ckc8icb405zsd0y471uepeee8",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F8d07faf9-9a15-b4e0-135a-6f4f62daf38b-2_AV_s1_2.0.jpg?Expires=1596983127235&KeyName=labelbox-assets-key-1&Signature=tnEi9mNFXeeXOo0O-UeRPGyX6pY",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 228,
+      "y": 310,
+      "width": 48,
+      "height": 106,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckc8idxgw620l0y7k4mno9xk1",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fa7611e1a-823d-be6c-52a5-83a515ea48c9-2_AV_s1_8.0.jpg?Expires=1596983127235&KeyName=labelbox-assets-key-1&Signature=DxRkTReSDw1r2EtzsGMR0pt5dUY",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 274,
+      "y": 311,
+      "width": 53,
+      "height": 96,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 185,
+      "y": 319,
+      "width": 82,
+      "height": 98,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 354,
+      "y": 317,
+      "width": 40,
+      "height": 104,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 411,
+      "y": 316,
+      "width": 38,
+      "height": 99,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckc8iecgd5zvd0y470g3xbtjs",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fdb3d186a-d02c-a532-557c-b31d7c725722-2_AV_s1_20.0.jpg?Expires=1596983127236&KeyName=labelbox-assets-key-1&Signature=IlekPr5FF5FrCZ2k1hVgMdCiLks",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 15,
+      "y": 355,
+      "width": 47,
+      "height": 55,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckc8if5v95zwj0y47ayyhf7uo",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F4b24bcd3-3599-da40-3717-e02ef8d57706-2_AV_s1_4.0.jpg?Expires=1596983127236&KeyName=labelbox-assets-key-1&Signature=yj3qJ96hRl0qhxnPtqJl-8oKJZw",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 130,
+      "y": 324,
+      "width": 44,
+      "height": 90,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 277,
+      "y": 323,
+      "width": 69,
+      "height": 87,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 10,
+      "y": 314,
+      "width": 96,
+      "height": 103,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckc8iflii668r0y5q66gxcfyw",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fc0eee1cb-36ca-3365-4d26-825d942781bc-2_AV_s1_10.0.jpg?Expires=1596983127236&KeyName=labelbox-assets-key-1&Signature=yB_Z27y2blNyZlghkn316eS0A50",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 212,
+      "y": 325,
+      "width": 47,
+      "height": 91,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 382,
+      "y": 309,
+      "width": 47,
+      "height": 105,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckc8igub1004n0y75btly06m9",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F451ed821-26eb-4e70-f36d-47b4524116a3-2_AV_s1_22.0.jpg?Expires=1596983127237&KeyName=labelbox-assets-key-1&Signature=Wn2REDaiHJ-lik-0OWH1nNSbSSo",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 260,
+      "y": 348,
+      "width": 21,
+      "height": 55,
+      "type": "Revolving"
+    },
+    {
+      "name": "Door",
+      "x": 108,
+      "y": 353,
+      "width": 38,
+      "height": 53,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 198,
+      "y": 347,
+      "width": 30,
+      "height": 56,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckc8ihfi3004y0y7cbqq54mmq",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F0a44657e-0f6c-fcf8-05a6-0fa3bc499437-2_AV_s2_917.0.jpg?Expires=1596983127237&KeyName=labelbox-assets-key-1&Signature=sjNCVl4PmEyJfQ-jN651iESJeCc",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 317,
+      "y": 305,
+      "width": 68,
+      "height": 153,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 374,
+      "y": 370,
+      "width": 8,
+      "height": 29
+    }
+  ]
+}{
+  "ID": "ckc8ik07k66fi0y5q8ywg4lkq",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F60d1389b-22b4-937a-a330-6a3f4c2ca43f-2_AV_s1_40.0.jpg?Expires=1596983127238&KeyName=labelbox-assets-key-1&Signature=6C2th36OuRdaYPOPqvlTLRY6NBA",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 106,
+      "y": 278,
+      "width": 39,
+      "height": 81,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 71,
+      "y": 357,
+      "width": 67,
+      "height": 36
+    },
+    {
+      "name": "Stairs",
+      "x": 383,
+      "y": 355,
+      "width": 50,
+      "height": 50
+    },
+    {
+      "name": "Door",
+      "x": 373,
+      "y": 280,
+      "width": 49,
+      "height": 75,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckc8ikjva00a60y7c1c5a60b8",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F16e81366-4260-f591-1784-52903f2ece41-2_AV_s1_400.0.jpg?Expires=1596983127239&KeyName=labelbox-assets-key-1&Signature=6q_6WPpt3uwOw4Cv3SbmNDEWwO0",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 317,
+      "y": 329,
+      "width": 28,
+      "height": 75,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckc8il97y00cg0y75c2ef4ds1",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F454d8e00-ffda-7f67-f365-ce7f0185619d-2_AV_s1_530.0.jpg?Expires=1596983127240&KeyName=labelbox-assets-key-1&Signature=ZV24V3XGtyz-ooebp6Wb6wi6FBQ",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 142,
+      "y": 330,
+      "width": 72,
+      "height": 125,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 203,
+      "y": 395,
+      "width": 10,
+      "height": 28
+    },
+    {
+      "name": "Door",
+      "x": 449,
+      "y": 347,
+      "width": 56,
+      "height": 103,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckc9fjimo76uy0y471vvw4klh",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fd0c9a6b2-b74e-76c5-4a3a-8c7a6a982f52-2_AV_s1_594.0.jpg?Expires=1596983127241&KeyName=labelbox-assets-key-1&Signature=Pt8igNcBRyDhKz6W-hw2AcHf8Cg",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 446,
+      "y": 337,
+      "width": 33,
+      "height": 74,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 571,
+      "y": 341,
+      "width": 36,
+      "height": 80,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckc9fk2zv76vh0y47g3nn6b23",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F95adbfd8-5c67-04c9-e68f-f1d593aef6c7-2_AV_s1_854.0.jpg?Expires=1596983127241&KeyName=labelbox-assets-key-1&Signature=oP0OeWNlLDB5duPobvakWPTdI7I",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 128,
+      "y": 352,
+      "width": 60,
+      "height": 67,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckc9flkl976xf0y473g5s3ja7",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F0648dd55-6ada-07e1-8f4f-4de2204035e4-2_AV_s1_1206.0.jpg?Expires=1596983127242&KeyName=labelbox-assets-key-1&Signature=tz9MkSET26jBfk-gAGl8ULcnSdk",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 257,
+      "y": 336,
+      "width": 30,
+      "height": 69,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckc9fm34z76y10y476k2z4nb6",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F6f483c6e-bf3a-01bc-8a0c-a0bfa06f8f1e-2_AV_s1_1270.0.jpg?Expires=1596983127242&KeyName=labelbox-assets-key-1&Signature=bV4WmmEDYUGR9oqWCKrOL6vlBb8",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 409,
+      "y": 346,
+      "width": 52,
+      "height": 123,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckc9fohmc17r50y753qlz2r2c",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Ffee44367-854e-f217-3cbf-ad1ba3ee1114-2_AV_s2_61.0.jpg?Expires=1596983127242&KeyName=labelbox-assets-key-1&Signature=F14QuSBfx-6VWPvUBM4TOLCc9gQ",
+  "Annotations": [
+    {
+      "name": "Stairs",
+      "x": 133,
+      "y": 402,
+      "width": 154,
+      "height": 57
+    },
+    {
+      "name": "Door",
+      "x": 200,
+      "y": 278,
+      "width": 78,
+      "height": 116,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckcdrwmwo3p880z7f0xjsggq4",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F398063c4-2dbd-24b2-83ba-6fee4bd76fc3-2_AV_s2_355.0.jpg?Expires=1596983127242&KeyName=labelbox-assets-key-1&Signature=XCPLXwg-LX8nm3LOoMC7YUglk6M",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 8,
+      "y": 330,
+      "width": 34,
+      "height": 67,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcdrzjax3pfx0y7d23zo34a4",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fe2bc9cfa-b4f6-4852-e5b8-c7f8dd5a98c1-2_AV_s2_555.0.jpg?Expires=1596983127244&KeyName=labelbox-assets-key-1&Signature=BKIB82b2vFvCXz4sAN8UsFFBMe0",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 565,
+      "y": 360,
+      "width": 29,
+      "height": 80,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 111,
+      "y": 335,
+      "width": 45,
+      "height": 34
+    }
+  ]
+}{
+  "ID": "ckcds0mbe3o0p0y0ngt7ogswt",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F2a16d89b-ba41-7ed5-6a45-a76f75ddb9a0-2_AV_s2_815.0.jpg?Expires=1596983127244&KeyName=labelbox-assets-key-1&Signature=CwsaukBowTi_E_WfmT-5fGjMZrU",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 82,
+      "y": 299,
+      "width": 34,
+      "height": 66,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 58,
+      "y": 363,
+      "width": 63,
+      "height": 23
+    }
+  ]
+}{
+  "ID": "ckcds25te3phk0z7fc35pc3uk",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F79d832bf-544a-d26e-742f-7327f0898510-2_AV_s2_1231.0.jpg?Expires=1596983127245&KeyName=labelbox-assets-key-1&Signature=hLlXMri5frKYj_d0JJN13PKOIY4",
+  "Annotations": [
+    {
+      "name": "Stairs",
+      "x": 0,
+      "y": 304,
+      "width": 100,
+      "height": 73
+    }
+  ]
+}{
+  "ID": "ckcds40ha4pvg0y6ghci1g921",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fe36d54df-48d7-b8bb-7341-841a921e6dd0-2_AV_s1_128.0.jpg?Expires=1596983127245&KeyName=labelbox-assets-key-1&Signature=10LISPPyYSMR_Zuj-5OoqWwH33s",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 114,
+      "y": 370,
+      "width": 58,
+      "height": 68,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 62,
+      "y": 369,
+      "width": 35,
+      "height": 71,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 329,
+      "y": 433,
+      "width": 37,
+      "height": 22
+    },
+    {
+      "name": "Door",
+      "x": 329,
+      "y": 367,
+      "width": 37,
+      "height": 67,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcds7ekv00r30y2s0vh5bq47",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fe597f12f-67a3-a7a5-6daf-4657204c4863-2_AV_s1_536.0.jpg?Expires=1596983127247&KeyName=labelbox-assets-key-1&Signature=WVdaiuiMP1JqORDaauozT-hQL6A",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 540,
+      "y": 317,
+      "width": 78,
+      "height": 154,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 53,
+      "y": 324,
+      "width": 59,
+      "height": 145,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 544,
+      "y": 469,
+      "width": 79,
+      "height": 23
+    },
+    {
+      "name": "Knob",
+      "x": 547,
+      "y": 392,
+      "width": 9,
+      "height": 7
+    },
+    {
+      "name": "Door",
+      "x": 132,
+      "y": 321,
+      "width": 79,
+      "height": 155,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcds9xkp3pyg0y7d6xy62jy2",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F3209f8f7-3742-e649-e494-67f94907643e-2_AV_s1_600.0.jpg?Expires=1596983127247&KeyName=labelbox-assets-key-1&Signature=h9Q3c6P4ZTLFJdxdz10aJDvPHHI",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 182,
+      "y": 337,
+      "width": 33,
+      "height": 70,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcdsczby011t0y5xffkug5l1",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fcd0627ff-cadc-ff2e-899e-648a1369d631-2_AV_s2_67.0.jpg?Expires=1596983127248&KeyName=labelbox-assets-key-1&Signature=768HvsxgI_JY5m4vWVwtqnTAJUo",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 280,
+      "y": 333,
+      "width": 46,
+      "height": 84,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 349,
+      "y": 334,
+      "width": 34,
+      "height": 77,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 493,
+      "y": 319,
+      "width": 35,
+      "height": 98,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 520,
+      "y": 379,
+      "width": 7,
+      "height": 9
+    }
+  ]
+}{
+  "ID": "ckcdsfs45015q0y2s43rw5gfx",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fb2ce8232-f379-4cb6-4612-ed37e129172b-2_AV_s2_929.0.jpg?Expires=1596983127251&KeyName=labelbox-assets-key-1&Signature=8fjE0M80i99hl2N9LqZs-YA1GWo",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 465,
+      "y": 298,
+      "width": 85,
+      "height": 130,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 273,
+      "y": 313,
+      "width": 51,
+      "height": 112,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 94,
+      "y": 333,
+      "width": 44,
+      "height": 92,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcdsh6vc4qfw0y6g90vk4s0k",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F7f90bf6a-51e8-9aab-2f29-2e7c2ebdad8e-2_AV_s2_1107.0.jpg?Expires=1596983127251&KeyName=labelbox-assets-key-1&Signature=vZEr4jvAgJkMFQv89Bww8bvNys4",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 61,
+      "y": 188,
+      "width": 196,
+      "height": 430,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcdsk6b13qgf0y7d8oztc428",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fcb089a27-358e-8601-ca0b-1bfddcebf959-2_AV_s1_134.0.jpg?Expires=1596983127252&KeyName=labelbox-assets-key-1&Signature=oasZwqzpdtGtX3SjiPYKBzdoPYQ",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 596,
+      "y": 348,
+      "width": 41,
+      "height": 85,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 623,
+      "y": 398,
+      "width": 9,
+      "height": 8
+    }
+  ]
+}{
+  "ID": "ckcdsljlz3qhf0y7d71lwf0oe",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fc21324dd-ccf8-41b0-4ae8-928d7b4feaed-2_AVE_s2_1169.0.jpg?Expires=1596983127252&KeyName=labelbox-assets-key-1&Signature=iDkN0A8FvImziAK7VPryekZYPrU",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 86,
+      "y": 315,
+      "width": 80,
+      "height": 175,
+      "type": "Single"
+    },
+    {
+      "name": "Ramp",
+      "x": 447,
+      "y": 449,
+      "width": 86,
+      "height": 63
+    },
+    {
+      "name": "Door",
+      "x": 447,
+      "y": 316,
+      "width": 63,
+      "height": 134,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcdsqfim3qou0y7d8xcie8vl",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F83480552-773c-c6df-50cf-3dc483ef88f9-2_AV_s1_346.0.jpg?Expires=1596983127252&KeyName=labelbox-assets-key-1&Signature=NfNsquUPyYnXi8zIV9_0jBvl1NI",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 237,
+      "y": 327,
+      "width": 50,
+      "height": 61,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 489,
+      "y": 333,
+      "width": 37,
+      "height": 59,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcdsrf0j4qsz0y6g4pkv2o7t",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F8a89b221-164e-bbdc-b89d-5ef500cb32ec-2_AV_s1_542.0.jpg?Expires=1596983127253&KeyName=labelbox-assets-key-1&Signature=L4MEKJNl2ybHEf_68wmoJyVKqB4",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 15,
+      "y": 331,
+      "width": 63,
+      "height": 122,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 517,
+      "y": 314,
+      "width": 74,
+      "height": 161,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcdst9nh3qqf0y7dfy43e25x",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fb11cf337-b30c-265d-8859-9c753cad9655-2_AV_s1_802.0.jpg?Expires=1596983127254&KeyName=labelbox-assets-key-1&Signature=h-5Z83PPL5xs6Yc09BQqqYZk1z4",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 551,
+      "y": 314,
+      "width": 13,
+      "height": 63,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 552,
+      "y": 342,
+      "width": 8,
+      "height": 9
+    },
+    {
+      "name": "Door",
+      "x": 608,
+      "y": 303,
+      "width": 16,
+      "height": 84,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcdsu2b7003t0y5f2esm6hf0",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F91e40672-5832-1182-d8f5-fdb24749c85a-2_AV_s1_910.0.jpg?Expires=1596983127254&KeyName=labelbox-assets-key-1&Signature=GR0QB812DT9gl9zoOPLYg3fKrPA",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 368,
+      "y": 358,
+      "width": 37,
+      "height": 69,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcdsxsm94qyh0y6g0fx3cqds",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F78d61b3d-3b14-835d-6e60-ed9e8fcba687-2_AV_s1_1088.0.jpg?Expires=1596983127254&KeyName=labelbox-assets-key-1&Signature=vOoGuFol76phXiILBHu47FhIs8g",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 74,
+      "y": 323,
+      "width": 37,
+      "height": 83,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 270,
+      "y": 328,
+      "width": 38,
+      "height": 77,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 483,
+      "y": 320,
+      "width": 57,
+      "height": 86,
+      "type": "Double"
+    },
+    {
+      "name": "Knob",
+      "x": 505,
+      "y": 359,
+      "width": 8,
+      "height": 10
+    },
+    {
+      "name": "Door",
+      "x": 606,
+      "y": 333,
+      "width": 34,
+      "height": 70,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcdt75at4ra90y6ggy5457yy",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fa69dc4f8-6fd6-c3aa-213b-791a8fc9a255-2_AV_s1_1218.0.jpg?Expires=1596983127254&KeyName=labelbox-assets-key-1&Signature=3eOCUwmnT1Wym2XM6HsX4-SCr2k",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 440,
+      "y": 344,
+      "width": 53,
+      "height": 116,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcdt9tm83r7h0y7dejew9jyh",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F2acf8f42-f564-c6dc-b311-8a5b91d6e1e1-2_AV_s2_9.0.jpg?Expires=1596983127255&KeyName=labelbox-assets-key-1&Signature=PpiSjP09v7jVZs1ClOj1caKSq0o",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 450,
+      "y": 329,
+      "width": 42,
+      "height": 77,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 398,
+      "y": 336,
+      "width": 36,
+      "height": 75,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 518,
+      "y": 331,
+      "width": 37,
+      "height": 75,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 585,
+      "y": 331,
+      "width": 28,
+      "height": 73,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcdtaxt200pg0y5lfcijhalh",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F9755027e-ee6c-7d40-ca7c-7af1f91531c8-2_AV_s2_155.0.jpg?Expires=1596983127255&KeyName=labelbox-assets-key-1&Signature=NuzVPRsP5RFWNDlN6-D4VFYj0b0",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 32,
+      "y": 296,
+      "width": 39,
+      "height": 92,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 306,
+      "y": 316,
+      "width": 34,
+      "height": 87,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcdtciex3rbp0y7d0jk03kqf",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fbed0702e-1925-9167-0a6e-6f3c49ea4d95-2_AV_s2_285.0.jpg?Expires=1596983127255&KeyName=labelbox-assets-key-1&Signature=VrcvTM5_pKeYf_9Uf3FfqoDocpk",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 597,
+      "y": 294,
+      "width": 40,
+      "height": 122,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckci86gqy005e0yal0z9p699r",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F1d4ad5d9-a9d5-6819-1785-632a28c66e80-2_AV_s2_367.0.jpg?Expires=1596983127255&KeyName=labelbox-assets-key-1&Signature=3Y5I6qKvdi--V8FU0G8VGdPEVkA",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 224,
+      "y": 290,
+      "width": 41,
+      "height": 55,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 352,
+      "y": 291,
+      "width": 26,
+      "height": 57,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckci87ic33dmz0y9b3st27fee",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Ff92e7ff7-c12b-48ab-13e1-b8fca9099ca8-2_AV_s2_935.0.jpg?Expires=1596983127257&KeyName=labelbox-assets-key-1&Signature=O0sW4YRc__XGGtSHLCpcVQu4cJQ",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 473,
+      "y": 305,
+      "width": 133,
+      "height": 271,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckci87xpi00a20yal3v663rue",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F0fbade55-5e16-4374-f788-70f6ab33531b-2_AV_s2_999.0.jpg?Expires=1596983127257&KeyName=labelbox-assets-key-1&Signature=Z9LDOXFIR8LR-K9V8wreWcPmgrc",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 542,
+      "y": 343,
+      "width": 28,
+      "height": 89,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 608,
+      "y": 341,
+      "width": 32,
+      "height": 97,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckci88b5f3dq30y9b3d1w7sl2",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fed9459d5-fd42-a13c-1289-a80fd1054dbd-2_AV_s2_1113.0.jpg?Expires=1596983127257&KeyName=labelbox-assets-key-1&Signature=cwHKr89bmn4XGV_Jzg4uekbX3_Y",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 579,
+      "y": 312,
+      "width": 44,
+      "height": 76,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckci88x1a3er40ybcbpkbdvky",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F8e27e388-b224-68f2-bfaf-982a41fd1b44-2_AV_s1_58.0.jpg?Expires=1596983127258&KeyName=labelbox-assets-key-1&Signature=dGQsPXD19WJZUKjqgaCfKndoXrY",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 208,
+      "y": 337,
+      "width": 40,
+      "height": 67,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckci89eeb3dtt0y9b9cfi2qd9",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fde4f32a3-c759-f41c-c355-307eb8e64000-2_AVE_s2_1175.0.jpg?Expires=1596983127260&KeyName=labelbox-assets-key-1&Signature=bmjydut8Gwg7jpjjgjEbF2eWYc4",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 386,
+      "y": 275,
+      "width": 85,
+      "height": 179,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 127,
+      "y": 219,
+      "width": 92,
+      "height": 242,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 126,
+      "y": 457,
+      "width": 98,
+      "height": 26
+    }
+  ]
+}{
+  "ID": "ckci89nae3duh0y9beiq2ham8",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F8e9d63e5-6a7d-8c50-714f-ea728a144f6e-2_AV_s1_270.0.jpg?Expires=1596983127260&KeyName=labelbox-assets-key-1&Signature=kH3RLikp4IJ6Me8kJo_UOPuQ9t0",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 34,
+      "y": 339,
+      "width": 53,
+      "height": 59,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckci89xyi3dvo0y9b4wil53wk",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F00d1b9eb-43e5-b6f2-e9b0-ed3c6f6791f9-2_AV_s1_418.0.jpg?Expires=1596983127261&KeyName=labelbox-assets-key-1&Signature=WKqsHr11jeNMSMxiaPMKMk3ASkg",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 62,
+      "y": 367,
+      "width": 32,
+      "height": 65,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckci8agjr00jt0yal8nto291m",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F11616ea8-703f-7a99-7877-3d18e202d924-2_AV_s1_1224.0.jpg?Expires=1596983127262&KeyName=labelbox-assets-key-1&Signature=XRFeNNPJc0Y-nOjdZjBadFtIsSU",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 515,
+      "y": 353,
+      "width": 47,
+      "height": 111,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckci8axgy00lk0yalfj1w8opz",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F20b91c93-15be-76ba-d201-3cf9378a0be5-2_AV_s2_291.0.jpg?Expires=1596983127262&KeyName=labelbox-assets-key-1&Signature=PktCXSFRTam0Esf2IN4G-4GTxVs",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 224,
+      "y": 308,
+      "width": 51,
+      "height": 106,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckci8b74t3e040y9bfaoh7mk2",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F5afaa987-744a-120d-a017-00525d6b7ec1-2_AV_s2_373.0.jpg?Expires=1596983127262&KeyName=labelbox-assets-key-1&Signature=D6Y6KvZIS7E_mRX-QiqEDjNwDf8",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 174,
+      "y": 327,
+      "width": 30,
+      "height": 79,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckci8bqk63e1y0y9b7z3e2sqg",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F4b1ae63f-1230-3ab3-5f9e-c1d9f03b93bb-2_AV_s2_833.0.jpg?Expires=1596983127263&KeyName=labelbox-assets-key-1&Signature=4ARnGD6vMh-OkxyXo-ToDZf4XfQ",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 78,
+      "y": 315,
+      "width": 41,
+      "height": 110,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 517,
+      "y": 319,
+      "width": 39,
+      "height": 108,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckci8bzk73e2n0y9b9tzl6p9v",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F02b1cc96-a784-0b68-ad1e-b5b2934aed14-2_AV_s2_1005.0.jpg?Expires=1596983127263&KeyName=labelbox-assets-key-1&Signature=fa_AFdbm1tghp_GjhvTf4LN1qBM",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 71,
+      "y": 322,
+      "width": 83,
+      "height": 106,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckci8d02m3e4l0y9bao240izj",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F12abb6b9-abef-6f06-a39c-552e141ac48d-2_AV_s2_1185.0.jpg?Expires=1596983127263&KeyName=labelbox-assets-key-1&Signature=WyGWxH0MYbaODh1ZwxevnNxMWuA",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 491,
+      "y": 314,
+      "width": 55,
+      "height": 128,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 415,
+      "y": 314,
+      "width": 47,
+      "height": 109,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 0,
+      "y": 343,
+      "width": 31,
+      "height": 121,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 205,
+      "y": 344,
+      "width": 55,
+      "height": 113,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 485,
+      "y": 434,
+      "width": 67,
+      "height": 25
+    },
+    {
+      "name": "Stairs",
+      "x": 413,
+      "y": 422,
+      "width": 65,
+      "height": 34
+    }
+  ]
+}{
+  "ID": "ckci8e2qs3f4e0ybcdig6b9px",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F41055805-41e3-5896-bf96-ff4eabd6bda6-2_AV_s1_64.0.jpg?Expires=1596983127265&KeyName=labelbox-assets-key-1&Signature=X4GeI2h1HfJyBhk6yWBChAHqyno",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 11,
+      "y": 313,
+      "width": 48,
+      "height": 103,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 293,
+      "y": 221,
+      "width": 32,
+      "height": 80,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 291,
+      "y": 259,
+      "width": 11,
+      "height": 10
+    }
+  ]
+}{
+  "ID": "ckci8egqw3f8s0ya9hecvhog6",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F61fc8c28-9c10-acfe-94b2-bace61402bb0-2_AV_s1_146.0.jpg?Expires=1596983127265&KeyName=labelbox-assets-key-1&Signature=8TixSE11Mzcuw8WFgvxe8H3zTGs",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 66,
+      "y": 350,
+      "width": 69,
+      "height": 61,
+      "type": "Automatic"
+    }
+  ]
+}{
+  "ID": "ckci8eypr3f6k0ybc531eay0r",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fdfb6c808-4011-2ff2-ff08-ec2031a774b8-2_AV_s1_276.0.jpg?Expires=1596983127265&KeyName=labelbox-assets-key-1&Signature=cPp-na4GESYAgxlqY0564NKgT5E",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 514,
+      "y": 332,
+      "width": 53,
+      "height": 49,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckci8fhz63fap0ya97nwthzw9",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F2e32947c-60bc-43b9-5a74-16bd6e477dc5-2_AV_s1_358.0.jpg?Expires=1596983127265&KeyName=labelbox-assets-key-1&Signature=l0HtIQyQBv1Xs6dzzdsH533bJno",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 102,
+      "y": 308,
+      "width": 31,
+      "height": 89,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 487,
+      "y": 311,
+      "width": 38,
+      "height": 95,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 299,
+      "y": 289,
+      "width": 55,
+      "height": 91,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 289,
+      "y": 377,
+      "width": 93,
+      "height": 54
+    }
+  ]
+}{
+  "ID": "ckci8fsm73f900ybcda8qfl6g",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F2299946f-33a0-748f-897a-a5ad9d499f4e-2_AV_s1_424.0.jpg?Expires=1596983127266&KeyName=labelbox-assets-key-1&Signature=kVHnF3L9aw2TreCp206P3YEteV4",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 477,
+      "y": 351,
+      "width": 42,
+      "height": 87,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 472,
+      "y": 390,
+      "width": 12,
+      "height": 16
+    }
+  ]
+}{
+  "ID": "ckci8gh2v3ee30y9b31x485nk",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F89f2722f-e567-551c-9212-5a3a21275cbf-2_AV_s1_1230.0.jpg?Expires=1596983127266&KeyName=labelbox-assets-key-1&Signature=WPasuxnxT9mxLQ_1Gdf2nMgwc9o",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 128,
+      "y": 359,
+      "width": 86,
+      "height": 111,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckci8gpdn3eeo0y9b3xd40sb8",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Faf10a644-e68f-3652-c938-98135e076e6b-2_AV_s2_21.0.jpg?Expires=1596983127267&KeyName=labelbox-assets-key-1&Signature=ss7Q8eVLwodo6PD0d75qPgKu3WI",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 129,
+      "y": 310,
+      "width": 71,
+      "height": 161,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckci8gwqu3fff0ya9dr0v3x98",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fa4318926-82ac-7fe2-0f2c-6165ca3e4c35-2_AV_s2_85.0.jpg?Expires=1596983127267&KeyName=labelbox-assets-key-1&Signature=9Z_KikD8IeM0ZEtAapTUutRX7tw",
+  "Annotations": [
+    {
+      "name": "Stairs",
+      "x": 502,
+      "y": 299,
+      "width": 138,
+      "height": 189
+    }
+  ]
+}{
+  "ID": "ckci8hftz3eg90y9b7gbl9v2g",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F051f425e-5b0a-1999-d6ae-aea64dbf9114-2_AV_s2_379.0.jpg?Expires=1596983127270&KeyName=labelbox-assets-key-1&Signature=41cuj4gnf6CWoIwVXl5G34-XUDY",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 332,
+      "y": 330,
+      "width": 25,
+      "height": 128,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckci8hs243ehj0y9baxm7gasy",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Ff055b77c-bc60-bf35-9f82-96949b2763ed-2_AV_s2_579.0.jpg?Expires=1596983127270&KeyName=labelbox-assets-key-1&Signature=2urZp46IxbRZtbl-yTTTlJvD1xc",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 281,
+      "y": 319,
+      "width": 56,
+      "height": 125,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 42,
+      "y": 288,
+      "width": 118,
+      "height": 162,
+      "type": "Revolving"
+    }
+  ]
+}{
+  "ID": "ckci8igbl3fg50ybc2yexdy06",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F3b9c3c28-2441-f828-3b12-027ec49a067b-2_AV_s2_947.0.jpg?Expires=1596983127271&KeyName=labelbox-assets-key-1&Signature=m0w857ZJvFzFCZ2zkLUK81v8cLA",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 329,
+      "y": 307,
+      "width": 63,
+      "height": 127,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 123,
+      "y": 350,
+      "width": 21,
+      "height": 88,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 23,
+      "y": 348,
+      "width": 31,
+      "height": 88,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckci8j2so002n0ybteqgcfbxy",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F2f067167-24ff-0d97-47ae-7af8502ec794-2_AV_s1_70.0.jpg?Expires=1596983127271&KeyName=labelbox-assets-key-1&Signature=wOSdz7kIHDnf5PY7UO5m8NAfhNk",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 550,
+      "y": 317,
+      "width": 31,
+      "height": 83,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 575,
+      "y": 359,
+      "width": 7,
+      "height": 12
+    }
+  ]
+}{
+  "ID": "ckci8jsft3epb0y9bdy5ra9dy",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F56a33584-7e6b-3d92-d89a-a47fcc0711fb-2_AV_s1_820.0.jpg?Expires=1596983127273&KeyName=labelbox-assets-key-1&Signature=1fPT9YHhNk4NIvBhsGs4PeYjpmM",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 548,
+      "y": 265,
+      "width": 51,
+      "height": 107,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckci8k5xd3fok0ya94lzihxtu",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F77631cb3-1518-5377-535b-cb1056dbcb88-2_AV_s1_1236.0.jpg?Expires=1596983127273&KeyName=labelbox-assets-key-1&Signature=PnR9u9TifXxVD2SZHaDjolLOqYE",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 347,
+      "y": 327,
+      "width": 64,
+      "height": 106,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 106,
+      "y": 333,
+      "width": 64,
+      "height": 126,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 503,
+      "y": 317,
+      "width": 57,
+      "height": 115,
+      "type": "Single"
+    },
+    {
+      "name": "Ramp",
+      "x": 507,
+      "y": 430,
+      "width": 55,
+      "height": 24
+    },
+    {
+      "name": "Door",
+      "x": 418,
+      "y": 323,
+      "width": 66,
+      "height": 110,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckci8km3o3fpc0ya985fwgorw",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F9a21a2d7-324d-6064-b27f-a087f18bf643-2_AV_s2_91.0.jpg?Expires=1596983127274&KeyName=labelbox-assets-key-1&Signature=Q8HQjhjtZMGy6oV51BIPUIWgEmU",
+  "Annotations": [
+    {
+      "name": "Stairs",
+      "x": 52,
+      "y": 337,
+      "width": 51,
+      "height": 49
+    }
+  ]
+}{
+  "ID": "ckci8lbxu3fmn0ybcapdd25hi",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Ffe73fe6d-548a-fd9f-6bd6-3ab4321a4064-2_AV_s2_173.0.jpg?Expires=1596983127275&KeyName=labelbox-assets-key-1&Signature=bDZjQaXS5JqzCGYIzuUn2qtSTH8",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 221,
+      "y": 330,
+      "width": 44,
+      "height": 84,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 53,
+      "y": 281,
+      "width": 47,
+      "height": 106,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 546,
+      "y": 335,
+      "width": 36,
+      "height": 79,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 5,
+      "y": 387,
+      "width": 97,
+      "height": 38
+    }
+  ]
+}{
+  "ID": "ckci8ljra3es90y9bav1g1r42",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F17c86b56-a480-4b14-39ba-c3a6e0dfebe4-2_AV_s2_303.0.jpg?Expires=1596983127275&KeyName=labelbox-assets-key-1&Signature=l6P3XyQjUbF5oCmdDdRN7Mj--58",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 339,
+      "y": 307,
+      "width": 91,
+      "height": 108,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckci8m7yy00910ybt39ms9le5",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F93237afb-58b0-58d2-928d-264e2724571c-2_AV_s2_385.0.jpg?Expires=1596983127275&KeyName=labelbox-assets-key-1&Signature=n6xPPlYBWwV-fD0ZXHLWLrCIQw0",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 134,
+      "y": 289,
+      "width": 40,
+      "height": 103,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 213,
+      "y": 290,
+      "width": 46,
+      "height": 101,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 129,
+      "y": 330,
+      "width": 14,
+      "height": 22
+    },
+    {
+      "name": "Knob",
+      "x": 252,
+      "y": 337,
+      "width": 9,
+      "height": 23
+    }
+  ]
+}{
+  "ID": "ckci8ms6l00b40ybte8xf9zi5",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Ffe19ecf6-4369-4240-642e-745bfd0d3d3f-2_AV_s2_953.0.jpg?Expires=1596983127276&KeyName=labelbox-assets-key-1&Signature=L2tFEnh0GcGiA9jZFKannhdu5uE",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 598,
+      "y": 330,
+      "width": 42,
+      "height": 107,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 309,
+      "y": 360,
+      "width": 36,
+      "height": 82,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 9,
+      "y": 358,
+      "width": 45,
+      "height": 94,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckci8n8zv3fw20ya993j4am7y",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fc554e79a-3a1b-58bf-62a3-fb2b384099ee-2_AV_s1_158.0.jpg?Expires=1596983127277&KeyName=labelbox-assets-key-1&Signature=HjJYHajRreOx1SsTyaiIuP0i6cQ",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 262,
+      "y": 340,
+      "width": 26,
+      "height": 70,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcidiigh3mvy0ybc86juapjf",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F03643085-6bf7-a49a-fe7d-6edf072caeb0-2_AV_s1_372.0.jpg?Expires=1596983127280&KeyName=labelbox-assets-key-1&Signature=THvNedsiIUoKB5aVEOWj-s3SPic",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 514,
+      "y": 319,
+      "width": 92,
+      "height": 100,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckcidmyzi3n260ybc6obxeprr",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fd002f65f-ac7a-50d2-36d4-15fb9aa47506-2_AV_s1_566.0.jpg?Expires=1596983127280&KeyName=labelbox-assets-key-1&Signature=_At_wurTvYFVSR4Sm77OPTEkO6E",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 559,
+      "y": 365,
+      "width": 18,
+      "height": 62,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcidny1n3o8y0ya94eih5bxl",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F6e09b246-48d5-de80-3079-5c83dc993c09-2_AV_s1_934.0.jpg?Expires=1596983127280&KeyName=labelbox-assets-key-1&Signature=Evb1Pk6xwhEdwNP54VKXCiO-CrE",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 122,
+      "y": 331,
+      "width": 30,
+      "height": 67,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 241,
+      "y": 338,
+      "width": 26,
+      "height": 61,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcidqtgc3mbs0y9b07fpdmp4",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fe64ce0dd-0d8b-f213-ee2b-2007dff2dc9f-2_AV_s1_998.0.jpg?Expires=1596983127281&KeyName=labelbox-assets-key-1&Signature=zX51GVnsv_KRu4FRTTI5x06Qabo",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 111,
+      "y": 346,
+      "width": 29,
+      "height": 64,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 261,
+      "y": 328,
+      "width": 33,
+      "height": 76,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 286,
+      "y": 362,
+      "width": 5,
+      "height": 8
+    },
+    {
+      "name": "Door",
+      "x": 309,
+      "y": 331,
+      "width": 31,
+      "height": 73,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 515,
+      "y": 331,
+      "width": 26,
+      "height": 65,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcidrgn63ogh0ya9cwpge39h",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fab975383-0713-f0e5-155d-fa6f4a344b88-2_AV_s2_97.0.jpg?Expires=1596983127281&KeyName=labelbox-assets-key-1&Signature=RB4i4JFQwiP7Auqr2I65ZtukDq0",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 3,
+      "y": 319,
+      "width": 16,
+      "height": 99,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcidrtup3mfn0y9bcj889ypn",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fd6bb2929-c8db-d9bd-698f-0182100e51f7-2_AV_s2_179.0.jpg?Expires=1596983127281&KeyName=labelbox-assets-key-1&Signature=XUzIHzg78TtteTDVcwr5tOfk1jc",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 190,
+      "y": 322,
+      "width": 42,
+      "height": 88,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcidtpp23ont0ya9du86ceaw",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F3bcb8384-ffb4-1a41-9a80-8b2858e165f5-2_AV_s2_309.0.jpg?Expires=1596983127282&KeyName=labelbox-assets-key-1&Signature=p_3QKKOLK9Yc06VtzO4nS0Rh_mY",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 88,
+      "y": 296,
+      "width": 52,
+      "height": 99,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 190,
+      "y": 296,
+      "width": 49,
+      "height": 122,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 225,
+      "y": 361,
+      "width": 11,
+      "height": 10
+    }
+  ]
+}{
+  "ID": "ckcidzm0500590ybe7v1d0c4c",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fa03603de-245f-76bd-9567-cac34e4693a6-2_AV_s2_851.0.jpg?Expires=1596983127282&KeyName=labelbox-assets-key-1&Signature=hdGtrXxwipsEfsho2qy0yBJPMyo",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 537,
+      "y": 281,
+      "width": 69,
+      "height": 147,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 516,
+      "y": 429,
+      "width": 116,
+      "height": 48
+    },
+    {
+      "name": "Door",
+      "x": 175,
+      "y": 303,
+      "width": 80,
+      "height": 155,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcidzxko3p230ya988l539qb",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Ffe33b4a0-7329-1fa2-c021-bffd77ed0b1a-2_AV_s2_959.0.jpg?Expires=1596983127282&KeyName=labelbox-assets-key-1&Signature=DF5WzcvVLZFBJ7EHDBiWIcfuHAg",
+  "Annotations": [
+    {
+      "name": "Stairs",
+      "x": 124,
+      "y": 318,
+      "width": 39,
+      "height": 29
+    }
+  ]
+}{
+  "ID": "ckcie1nen3p6y0ya9blucgwdx",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F12cecc85-3271-90b3-16c5-587cc8b2ac2f-2_AV_s2_1267.0.jpg?Expires=1596983127283&KeyName=labelbox-assets-key-1&Signature=v5SsB83YmxHA2Vw7UqMUBWXBvw0",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 96,
+      "y": 356,
+      "width": 57,
+      "height": 120,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 331,
+      "y": 353,
+      "width": 59,
+      "height": 115,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 379,
+      "y": 412,
+      "width": 8,
+      "height": 9
+    },
+    {
+      "name": "Door",
+      "x": 536,
+      "y": 346,
+      "width": 69,
+      "height": 126,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcie5re83pdk0ya9anda38c3",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F510b3537-2c0b-8d05-6a18-92b7d13c9025-2_AV_s1_82.0.jpg?Expires=1596983127284&KeyName=labelbox-assets-key-1&Signature=VM7AVAkdcsXsFWEue345FADjnpk",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 179,
+      "y": 354,
+      "width": 64,
+      "height": 84,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 349,
+      "y": 359,
+      "width": 66,
+      "height": 74,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 532,
+      "y": 343,
+      "width": 40,
+      "height": 67,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcie6lqb3o5o0ybc4zzj50pu",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fdf3a9681-f182-6b85-68c3-084100c696df-2_AVE_s2_1135.0.jpg?Expires=1596983127286&KeyName=labelbox-assets-key-1&Signature=cnxIJaGXnyncUm-AxdxQahKPPIY",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 126,
+      "y": 283,
+      "width": 82,
+      "height": 179,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 466,
+      "y": 284,
+      "width": 89,
+      "height": 175,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 447,
+      "y": 459,
+      "width": 136,
+      "height": 39
+    },
+    {
+      "name": "Knob",
+      "x": 472,
+      "y": 374,
+      "width": 13,
+      "height": 9
+    }
+  ]
+}{
+  "ID": "ckcie8lpf00l30yc16oge2ic8",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F6b6b4e59-b946-52cd-f15f-1d71028aa90c-2_AV_s1_164.0.jpg?Expires=1596983127287&KeyName=labelbox-assets-key-1&Signature=ADc3KLyixZQMi_DFh5oP3yFRPR4",
+  "Annotations": [
+    {
+      "name": "Stairs",
+      "x": 0,
+      "y": 288,
+      "width": 75,
+      "height": 54
+    },
+    {
+      "name": "Stairs",
+      "x": 0,
+      "y": 341,
+      "width": 130,
+      "height": 86
+    },
+    {
+      "name": "Door",
+      "x": 1,
+      "y": 149,
+      "width": 68,
+      "height": 138,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 252,
+      "y": 302,
+      "width": 47,
+      "height": 102,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 506,
+      "y": 322,
+      "width": 47,
+      "height": 91,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcie9r7l3nhi0y9bhm2ddkb7",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Ff1d8cec9-5cb9-3fb2-268e-dd121e11a244-2_AV_s1_572.0.jpg?Expires=1596983127289&KeyName=labelbox-assets-key-1&Signature=vjfyrudbN7XjHezBHtcJBiLkhkw",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 69,
+      "y": 338,
+      "width": 32,
+      "height": 78,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 468,
+      "y": 338,
+      "width": 40,
+      "height": 79,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckciebhns00ol0yc161rd48k2",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F32aa8a92-17e4-baa5-8901-c7f6221803ea-2_AV_s1_832.0.jpg?Expires=1596983127289&KeyName=labelbox-assets-key-1&Signature=VywN7j5o7sId305QXAv6wv3jG1c",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 6,
+      "y": 343,
+      "width": 15,
+      "height": 77,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckciecow13pqj0ya9ezvh1ndc",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fc7142816-fcc4-5189-5369-b0498f237fc5-2_AV_s1_1004.0.jpg?Expires=1596983127290&KeyName=labelbox-assets-key-1&Signature=w8CP9KzGzggsLGdoc78qr75w7HU",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 395,
+      "y": 339,
+      "width": 35,
+      "height": 69,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 423,
+      "y": 367,
+      "width": 6,
+      "height": 13
+    }
+  ]
+}{
+  "ID": "ckciedruc00sx0yc14j4ob2dl",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fe92ca581-8930-1528-b491-c11c85f70e11-2_AV_s1_1184.0.jpg?Expires=1596983127290&KeyName=labelbox-assets-key-1&Signature=tg-vEVYqJ1zzs_Qzf_murwjcA8c",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 592,
+      "y": 348,
+      "width": 40,
+      "height": 81,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 80,
+      "y": 326,
+      "width": 40,
+      "height": 96,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckciehooa00zh0yc19p7k7jgg",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fdf64f3d9-405a-863f-9802-2f3e7749f976-2_AV_s2_39.0.jpg?Expires=1596983127290&KeyName=labelbox-assets-key-1&Signature=xzSbHV7m2ciD3rdSkKAiTgzp-xQ",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 64,
+      "y": 322,
+      "width": 29,
+      "height": 75,
+      "type": "Double"
+    },
+    {
+      "name": "Knob",
+      "x": 64,
+      "y": 362,
+      "width": 6,
+      "height": 9
+    },
+    {
+      "name": "Knob",
+      "x": 72,
+      "y": 361,
+      "width": 6,
+      "height": 12
+    }
+  ]
+}{
+  "ID": "ckcieitpj00590zakhxzz2bnp",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fd9d66199-787a-ad1a-232b-1277d431bf0b-2_AV_s2_597.0.jpg?Expires=1596983127291&KeyName=labelbox-assets-key-1&Signature=j3Vm3VWaqWg4ZGDdj5fZOeTZA1w",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 413,
+      "y": 310,
+      "width": 45,
+      "height": 99,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 498,
+      "y": 314,
+      "width": 45,
+      "height": 92,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckciek3dm3q130ya98gizboyf",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fd6e2f4ca-ece8-88d2-b464-23e0b1ac754e-2_AV_s2_857.0.jpg?Expires=1596983127292&KeyName=labelbox-assets-key-1&Signature=Ym3XGSTCfuQUEnEcygKe7WWDQws",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 16,
+      "y": 323,
+      "width": 104,
+      "height": 137,
+      "type": "Double"
+    },
+    {
+      "name": "Knob",
+      "x": 61,
+      "y": 381,
+      "width": 9,
+      "height": 26
+    },
+    {
+      "name": "Knob",
+      "x": 73,
+      "y": 381,
+      "width": 9,
+      "height": 25
+    },
+    {
+      "name": "Door",
+      "x": 150,
+      "y": 334,
+      "width": 64,
+      "height": 131,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 200,
+      "y": 391,
+      "width": 8,
+      "height": 26
+    },
+    {
+      "name": "Door",
+      "x": 548,
+      "y": 321,
+      "width": 79,
+      "height": 122,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckcieke7n3q1q0ya960yl7ggu",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F28cc393d-7ba1-cef7-bc72-36883e84b996-2_AV_s2_1079.0.jpg?Expires=1596983127292&KeyName=labelbox-assets-key-1&Signature=4z3jLQdmA5FVc0Xr8gejt2MJVHA",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 18,
+      "y": 339,
+      "width": 25,
+      "height": 69,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcielhf9007y0yaz4jd7e52p",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F9c4b145a-86ae-ad22-3566-75ff68c18749-2_AV_s2_1273.0.jpg?Expires=1596983127294&KeyName=labelbox-assets-key-1&Signature=Nbd8PAe39QKC2sYvQEtcnLYBNmA",
+  "Annotations": [
+    {
+      "name": "Stairs",
+      "x": 19,
+      "y": 354,
+      "width": 62,
+      "height": 55
+    }
+  ]
+}{
+  "ID": "ckciemn653q480ya9flcd3xww",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F20f2016f-5c29-3dc2-e65a-565afd27bb92-2_AV_s1_24.0.jpg?Expires=1596983127294&KeyName=labelbox-assets-key-1&Signature=h6yf_vF3sd1cIAA_kMxsOEg109Y",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 103,
+      "y": 364,
+      "width": 30,
+      "height": 75,
+      "type": "Single"
+    },
+    {
+      "name": "Ramp",
+      "x": 192,
+      "y": 406,
+      "width": 49,
+      "height": 34
+    },
+    {
+      "name": "Door",
+      "x": 219,
+      "y": 339,
+      "width": 30,
+      "height": 68,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 253,
+      "y": 418,
+      "width": 147,
+      "height": 22
+    },
+    {
+      "name": "Door",
+      "x": 475,
+      "y": 350,
+      "width": 55,
+      "height": 60,
+      "type": "Revolving"
+    },
+    {
+      "name": "Door",
+      "x": 448,
+      "y": 349,
+      "width": 26,
+      "height": 58,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcienq083o2x0y9b8rpf7dia",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fbdcf3264-c9a0-2cf5-80a0-0bf36c40679a-2_AV_s1_170.0.jpg?Expires=1596983127295&KeyName=labelbox-assets-key-1&Signature=qW40NLKXZC_C_p_euAr3qn6Prrk",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 160,
+      "y": 333,
+      "width": 41,
+      "height": 72,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 162,
+      "y": 368,
+      "width": 9,
+      "height": 20
+    },
+    {
+      "name": "Door",
+      "x": 446,
+      "y": 345,
+      "width": 24,
+      "height": 63,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 447,
+      "y": 378,
+      "width": 7,
+      "height": 8
+    }
+  ]
+}{
+  "ID": "ckciephr13o530y9bgtjrez6k",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fc267dd91-18a7-3d09-3849-761365c00f8e-2_AV_s1_514.0.jpg?Expires=1596983127295&KeyName=labelbox-assets-key-1&Signature=2bfpAoCZR0st0jLhyQtQ7slvvDc",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 45,
+      "y": 339,
+      "width": 54,
+      "height": 77,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 551,
+      "y": 337,
+      "width": 61,
+      "height": 67,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 343,
+      "y": 318,
+      "width": 44,
+      "height": 87,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckciesx1q3p5r0ybcef6e78ve",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F58a29afd-dec0-7d3f-4e8a-9435b638fea1-2_AV_s1_578.0.jpg?Expires=1596983127296&KeyName=labelbox-assets-key-1&Signature=hvn12S19kgUmZef3kjk-DRcHqRE",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 122,
+      "y": 345,
+      "width": 27,
+      "height": 76,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 271,
+      "y": 340,
+      "width": 36,
+      "height": 83,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 338,
+      "y": 347,
+      "width": 37,
+      "height": 84,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 384,
+      "y": 349,
+      "width": 36,
+      "height": 72,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcietnmi00ll0zak7u5c3usa",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Ff426b8d0-ab4e-6497-eb7d-6b0ee3f442d2-2_AV_s1_838.0.jpg?Expires=1596983127296&KeyName=labelbox-assets-key-1&Signature=CAfMy1fCqwvVPlZLarK6rYN6nSI",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 522,
+      "y": 349,
+      "width": 29,
+      "height": 60,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 520,
+      "y": 405,
+      "width": 64,
+      "height": 18
+    }
+  ]
+}{
+  "ID": "ckcieu5jd00ma0zak58n33xzk",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fd59365c0-5509-65e1-664e-027868cf07ac-2_AV_s1_946.0.jpg?Expires=1596983127297&KeyName=labelbox-assets-key-1&Signature=82HI1PTm0ucMDXQoWSJ532iL8Mk",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 210,
+      "y": 312,
+      "width": 117,
+      "height": 142,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckciev4jy00p50zak5v5381b2",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F00b8876e-ee78-2e4c-cfac-104547ed3103-2_AV_s1_1190.0.jpg?Expires=1596983127297&KeyName=labelbox-assets-key-1&Signature=tUHwss_AT70yPBngwIMikLToLCE",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 15,
+      "y": 324,
+      "width": 32,
+      "height": 84,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 465,
+      "y": 331,
+      "width": 38,
+      "height": 82,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckciew52e00r50zakhn5a1440",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F5504394a-5ecb-a193-403a-03b1491de528-2_AV_s1_1254.0.jpg?Expires=1596983127297&KeyName=labelbox-assets-key-1&Signature=3ZG9fIFNEdpPFc-Bbg9heg0N32c",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 599,
+      "y": 295,
+      "width": 41,
+      "height": 141,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 602,
+      "y": 366,
+      "width": 8,
+      "height": 28
+    }
+  ]
+}{
+  "ID": "ckciewqa001m10yc1avnifey7",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fbd9a3d34-dd75-ff1e-09d5-1682bea9c1f8-2_AV_s2_45.0.jpg?Expires=1596983127297&KeyName=labelbox-assets-key-1&Signature=3niXFwiOlG0MsQ7_N1ercrx2WNE",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 104,
+      "y": 328,
+      "width": 61,
+      "height": 70,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 429,
+      "y": 333,
+      "width": 45,
+      "height": 79,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 582,
+      "y": 338,
+      "width": 26,
+      "height": 73,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckciexvih00vf0zakev5k3io8",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Ff764dd2f-ec19-7b6f-162b-9d01aaa97658-2_AV_s2_533.0.jpg?Expires=1596983127299&KeyName=labelbox-assets-key-1&Signature=vIQJ--IjVw2PIVNpom-2ao2W31g",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 246,
+      "y": 294,
+      "width": 76,
+      "height": 166,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 305,
+      "y": 379,
+      "width": 12,
+      "height": 32
+    },
+    {
+      "name": "Ramp",
+      "x": 231,
+      "y": 458,
+      "width": 376,
+      "height": 49
+    }
+  ]
+}{
+  "ID": "ckcieylcx3qqz0ya9b9r45fok",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F93687b6e-70b4-6a16-a26b-b88754819881-2_AV_s2_539.0.jpg?Expires=1596983127300&KeyName=labelbox-assets-key-1&Signature=hEA3As2ar_Szyi4yWr_H3_EdFQc",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 183,
+      "y": 291,
+      "width": 73,
+      "height": 174,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 242,
+      "y": 378,
+      "width": 9,
+      "height": 11
+    },
+    {
+      "name": "Door",
+      "x": 272,
+      "y": 289,
+      "width": 79,
+      "height": 173,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckciez9o73oky0y9bfuky7p2b",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F5dd6ea50-7ec6-cbb7-fec5-088aa04f79bc-2_AV_s2_907.0.jpg?Expires=1596983127301&KeyName=labelbox-assets-key-1&Signature=Z-b9yK85b69td5oU-w79jgw58EY",
+  "Annotations": [
+    {
+      "name": "Stairs",
+      "x": 194,
+      "y": 417,
+      "width": 89,
+      "height": 40
+    },
+    {
+      "name": "Door",
+      "x": 188,
+      "y": 256,
+      "width": 102,
+      "height": 168,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcif00s801wk0yc1hqf21br3",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fab8931e6-a7fe-eb08-c3bb-33a790d2bbc3-2_AV_s2_1085.0.jpg?Expires=1596983127301&KeyName=labelbox-assets-key-1&Signature=z1zOTpW4xA6eEBOnhWnW8UK8rXE",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 35,
+      "y": 336,
+      "width": 34,
+      "height": 82,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 293,
+      "y": 335,
+      "width": 35,
+      "height": 82,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 564,
+      "y": 334,
+      "width": 43,
+      "height": 89,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 426,
+      "y": 332,
+      "width": 41,
+      "height": 90,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcif19qz3oqh0y9b5byxd4lr",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F4bd916e9-de64-ec1d-6dd5-7d8380e724f8-2_AV_s1_30.0.jpg?Expires=1596983127302&KeyName=labelbox-assets-key-1&Signature=FVA98P4IVz1B0qh3LypQWZDHnpM",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 73,
+      "y": 360,
+      "width": 23,
+      "height": 76,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 322,
+      "y": 368,
+      "width": 32,
+      "height": 67,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 590,
+      "y": 355,
+      "width": 17,
+      "height": 72,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcif1vyg3os50y9b8v0f4mp3",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fedc82626-a0e6-87ef-dc95-cb03d88850ca-2_AV_s1_94.0.jpg?Expires=1596983127302&KeyName=labelbox-assets-key-1&Signature=pi5tYlcWNQYIjjyozwyWvn0lqGE",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 96,
+      "y": 341,
+      "width": 42,
+      "height": 56,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckcif2svd3r1r0ya90ttqfcbm",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F19158a05-6858-3f68-85a5-807ed8e3ead7-2_AV_s1_176.0.jpg?Expires=1596983127303&KeyName=labelbox-assets-key-1&Signature=yi3KLC2SXdjf67u1rmUZpc53Ry0",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 540,
+      "y": 318,
+      "width": 41,
+      "height": 105,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 587,
+      "y": 320,
+      "width": 43,
+      "height": 102,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcif3s25004e0y8w6zdwh7x8",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Faf1ee70e-03c7-159f-b1b4-ed4a5e652ff4-2_AV_s1_390.0.jpg?Expires=1596983127304&KeyName=labelbox-assets-key-1&Signature=aikYzgIu8ojSTg52UBq0pkGwO7o",
+  "Annotations": [
+    {
+      "name": "Ramp",
+      "x": 59,
+      "y": 357,
+      "width": 74,
+      "height": 20
+    }
+  ]
+}{
+  "ID": "ckcif4kbs3r570ya9geug5zrs",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fed458a70-5df7-f9a2-842f-c457db037f0a-2_AV_s1_1260.0.jpg?Expires=1596983127305&KeyName=labelbox-assets-key-1&Signature=X-1fu-WdbpApSHwER7tnnki13U0",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 582,
+      "y": 282,
+      "width": 57,
+      "height": 138,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 562,
+      "y": 423,
+      "width": 78,
+      "height": 22
+    },
+    {
+      "name": "Knob",
+      "x": 629,
+      "y": 346,
+      "width": 10,
+      "height": 31
+    }
+  ]
+}{
+  "ID": "ckcif5o4y3q2l0ybc19pebxjn",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fc63a677d-deb9-a251-ed41-b6e415688f50-2_AV_s2_51.0.jpg?Expires=1596983127306&KeyName=labelbox-assets-key-1&Signature=K-A169zg7Ba4ua_a_npd_u05ezw",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 67,
+      "y": 327,
+      "width": 36,
+      "height": 70,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 244,
+      "y": 322,
+      "width": 35,
+      "height": 74,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 329,
+      "y": 320,
+      "width": 31,
+      "height": 64,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 516,
+      "y": 319,
+      "width": 32,
+      "height": 70,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 94,
+      "y": 357,
+      "width": 6,
+      "height": 14
+    },
+    {
+      "name": "Knob",
+      "x": 351,
+      "y": 341,
+      "width": 7,
+      "height": 18
+    },
+    {
+      "name": "Knob",
+      "x": 520,
+      "y": 350,
+      "width": 7,
+      "height": 15
+    }
+  ]
+}{
+  "ID": "ckcif6p5y00bx0y8w3gou6llz",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F0e85ed31-1963-31ff-665a-57934645a522-2_AV_s2_133.0.jpg?Expires=1596983127306&KeyName=labelbox-assets-key-1&Signature=Tm58DQUMcN0gdaQO-usRPjdS_pg",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 300,
+      "y": 287,
+      "width": 69,
+      "height": 158,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 395,
+      "y": 301,
+      "width": 80,
+      "height": 138,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 577,
+      "y": 293,
+      "width": 63,
+      "height": 152,
+      "type": "Double"
+    },
+    {
+      "name": "Knob",
+      "x": 625,
+      "y": 370,
+      "width": 7,
+      "height": 25
+    },
+    {
+      "name": "Knob",
+      "x": 634,
+      "y": 372,
+      "width": 6,
+      "height": 23
+    },
+    {
+      "name": "Knob",
+      "x": 399,
+      "y": 365,
+      "width": 8,
+      "height": 19
+    },
+    {
+      "name": "Knob",
+      "x": 300,
+      "y": 367,
+      "width": 8,
+      "height": 21
+    },
+    {
+      "name": "Stairs",
+      "x": 390,
+      "y": 438,
+      "width": 107,
+      "height": 27
+    }
+  ]
+}{
+  "ID": "ckcif75s602cw0yc1g14a0rbp",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fce744c56-8589-3461-cc9d-5064314a1bdc-2_AV_s2_345.0.jpg?Expires=1596983127306&KeyName=labelbox-assets-key-1&Signature=3eFITxQ1schn2XPh38ff2Ro6y5Y",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 354,
+      "y": 324,
+      "width": 34,
+      "height": 83,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 426,
+      "y": 325,
+      "width": 77,
+      "height": 83,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckcif7l303q9u0ybc21pfd2xd",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F5954a2cf-6de2-ab43-abc9-621894369649-2_AV_s2_913.0.jpg?Expires=1596983127307&KeyName=labelbox-assets-key-1&Signature=d3Inl9YR-J8IkT3WeSOo1TN8eCs",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 247,
+      "y": 284,
+      "width": 140,
+      "height": 190,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckcif862f00go0y8w3uqq903x",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F9f99e461-1277-8a5d-871e-93aa3829d9d7-2_AV_s2_1091.0.jpg?Expires=1596983127308&KeyName=labelbox-assets-key-1&Signature=3Iog2ydAGFlo2m0uke7WdRa0hoE",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 98,
+      "y": 313,
+      "width": 35,
+      "height": 88,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 202,
+      "y": 317,
+      "width": 17,
+      "height": 84,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 445,
+      "y": 319,
+      "width": 9,
+      "height": 87,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcif9piv3pd70y9ba8i60lm8",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F991776b3-7bd9-5424-5701-f437e47171e0-2_AV_s1_312.0.jpg?Expires=1596983127310&KeyName=labelbox-assets-key-1&Signature=dIsrO1LuF-SdGH6BnPAz1yx_Bgg",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 86,
+      "y": 343,
+      "width": 41,
+      "height": 74,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 116,
+      "y": 372,
+      "width": 8,
+      "height": 16
+    },
+    {
+      "name": "Door",
+      "x": 244,
+      "y": 340,
+      "width": 29,
+      "height": 62,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 594,
+      "y": 337,
+      "width": 29,
+      "height": 58,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 5,
+      "y": 344,
+      "width": 27,
+      "height": 47,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 342,
+      "y": 333,
+      "width": 75,
+      "height": 64,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckcifabqj00m70y8w3qb24dcl",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fb7511473-ef4b-2b00-08fd-0a6ddc4da935-2_AV_s1_526.0.jpg?Expires=1596983127310&KeyName=labelbox-assets-key-1&Signature=RGVd9zH_uqrzLwlZr44bQyFM25A",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 132,
+      "y": 335,
+      "width": 57,
+      "height": 139,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 140,
+      "y": 404,
+      "width": 8,
+      "height": 19
+    },
+    {
+      "name": "Door",
+      "x": 326,
+      "y": 315,
+      "width": 61,
+      "height": 159,
+      "type": "Single"
+    },
+    {
+      "name": "Ramp",
+      "x": 324,
+      "y": 471,
+      "width": 66,
+      "height": 26
+    }
+  ]
+}{
+  "ID": "ckcifb1bf02n60yc1gtqf47gl",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fa79862b2-38dd-0a96-cf18-3b06a295d522-2_AV_s1_1266.0.jpg?Expires=1596983127313&KeyName=labelbox-assets-key-1&Signature=zG_zlfEJcv9bXbXeTraVDqq6dMo",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 467,
+      "y": 267,
+      "width": 58,
+      "height": 133,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 409,
+      "y": 400,
+      "width": 128,
+      "height": 47
+    }
+  ]
+}{
+  "ID": "ckcifbelu3pfy0y9bfwuo4omh",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F2f7f59e2-550a-46f5-4728-4dbb6b399586-2_AV_s2_57.0.jpg?Expires=1596983127313&KeyName=labelbox-assets-key-1&Signature=kxjnPu__xX0vf7qjuzxB0pDPbBs",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 538,
+      "y": 291,
+      "width": 63,
+      "height": 145,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 587,
+      "y": 354,
+      "width": 11,
+      "height": 30
+    }
+  ]
+}{
+  "ID": "ckcifci2b00qw0y8wet014rnu",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F9f52d9e7-b70f-9f66-b09d-0c8772eb5be0-2_AV_s2_415.0.jpg?Expires=1596983127313&KeyName=labelbox-assets-key-1&Signature=9BsRvJQ-MVwohSvZOtx4zOqu8lc",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 242,
+      "y": 283,
+      "width": 33,
+      "height": 70,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckco3thde03c90y556qeg11vq",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fc6ac860b-992c-efba-ec8f-dd6e44a14529-2_AV_s2_63.0.jpg?Expires=1596983127314&KeyName=labelbox-assets-key-1&Signature=W525VKHvtI6_z97vEo-mp-Chqjo",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 181,
+      "y": 292,
+      "width": 110,
+      "height": 124,
+      "type": "Double"
+    },
+    {
+      "name": "Stairs",
+      "x": 165,
+      "y": 413,
+      "width": 138,
+      "height": 21
+    }
+  ]
+}{
+  "ID": "ckco3ujio03l90y7g8m1kevll",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fc991f4d5-d562-646e-f410-f9ff70e2dbce-2_AV_s2_275.0.jpg?Expires=1596983127315&KeyName=labelbox-assets-key-1&Signature=YvNg_r2ijfvRNStd-xq9aXxCnxY",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 100,
+      "y": 310,
+      "width": 39,
+      "height": 106,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 156,
+      "y": 326,
+      "width": 50,
+      "height": 96,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 344,
+      "y": 315,
+      "width": 45,
+      "height": 111,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 471,
+      "y": 319,
+      "width": 54,
+      "height": 105,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 195,
+      "y": 365,
+      "width": 7,
+      "height": 20
+    },
+    {
+      "name": "Stairs",
+      "x": 87,
+      "y": 413,
+      "width": 57,
+      "height": 20
+    }
+  ]
+}{
+  "ID": "ckco3v3nn04c70y8efcplgera",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F49599744-5e0e-e9ab-49de-6f0ce128acf9-2_AV_s2_811.0.jpg?Expires=1596983127315&KeyName=labelbox-assets-key-1&Signature=Yj9s_QGKh7JvYgQ5kcqdHoAbtYk",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 403,
+      "y": 265,
+      "width": 36,
+      "height": 71,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 388,
+      "y": 333,
+      "width": 73,
+      "height": 29
+    }
+  ]
+}{
+  "ID": "ckco3vee404da0y8e0l2k8v09",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F0ffc3803-52da-da06-8a9d-c0603d32914a-2_AV_s2_919.0.jpg?Expires=1596983127316&KeyName=labelbox-assets-key-1&Signature=epGStehuZPd0ULpKAWNAmyEOZcY",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 46,
+      "y": 306,
+      "width": 75,
+      "height": 177,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckco3wd860daw0y3hd1djhvqo",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fb9d3a065-61fd-9f3b-12a4-9bab3b7f9658-2_AV_s1_42.0.jpg?Expires=1596983127317&KeyName=labelbox-assets-key-1&Signature=Jj_ZcTOv0aLuiAzOo1euNAZfzaE",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 100,
+      "y": 276,
+      "width": 48,
+      "height": 82,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 66,
+      "y": 358,
+      "width": 83,
+      "height": 38
+    },
+    {
+      "name": "Door",
+      "x": 375,
+      "y": 263,
+      "width": 53,
+      "height": 95,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 378,
+      "y": 356,
+      "width": 57,
+      "height": 48
+    }
+  ]
+}{
+  "ID": "ckcr0q9bz00003h6042g3obvl",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F1a361c72-770a-ac26-3f18-5f7462f9f404-2_AV_s1_402.0.jpg?Expires=1596983127318&KeyName=labelbox-assets-key-1&Signature=ouBg3UIeXSkZqrwHB2_gnsFaIGA",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 341,
+      "y": 315,
+      "width": 67,
+      "height": 86,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckcr0qqb400013h60oxva5rrg",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F082e62c1-5c31-9520-f189-c4c9bef4d3d1-2_AV_s1_532.0.jpg?Expires=1596983127318&KeyName=labelbox-assets-key-1&Signature=nf08RWwU2Dr4drXgKlsKtIcsiCQ",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 142,
+      "y": 331,
+      "width": 73,
+      "height": 155,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 450,
+      "y": 334,
+      "width": 53,
+      "height": 150,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcr0rv0p00023h60pf8yfc55",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F98e529de-f373-2e77-9745-64e4e65f0e56-2_AV_s1_596.0.jpg?Expires=1596983127319&KeyName=labelbox-assets-key-1&Signature=og1DoP0O15Xpw1aCFuYgRSLO2NM",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 58,
+      "y": 327,
+      "width": 31,
+      "height": 75,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 44,
+      "y": 401,
+      "width": 48,
+      "height": 12
+    },
+    {
+      "name": "Door",
+      "x": 161,
+      "y": 330,
+      "width": 37,
+      "height": 73,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 225,
+      "y": 333,
+      "width": 40,
+      "height": 77,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 257,
+      "y": 369,
+      "width": 5,
+      "height": 12
+    },
+    {
+      "name": "Door",
+      "x": 324,
+      "y": 328,
+      "width": 38,
+      "height": 86,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcr0s4n200033h60nob8rp41",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F36469889-8384-1d9b-2c04-71c6cf3dde65-2_AV_s1_856.0.jpg?Expires=1596983127319&KeyName=labelbox-assets-key-1&Signature=UJyaYWcoaqqnF4veNgZ5ys5FWHg",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 447,
+      "y": 341,
+      "width": 74,
+      "height": 81,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckcr0swnk00093h60wdsey709",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F65c366f6-fff5-e276-c43c-9b2c8c950cb1-2_AV_s2_69.0.jpg?Expires=1596983127321&KeyName=labelbox-assets-key-1&Signature=cbv9A5ZYYjOCapRHofMYIu1YQ78",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 148,
+      "y": 275,
+      "width": 65,
+      "height": 117,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 131,
+      "y": 390,
+      "width": 92,
+      "height": 18
+    },
+    {
+      "name": "Door",
+      "x": 419,
+      "y": 248,
+      "width": 48,
+      "height": 152,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcr0ttl6000c3h60bpi2dkbc",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F864ed596-5e3d-2fbe-7374-722f6c1f7805-2_AV_s2_363.0.jpg?Expires=1596983127322&KeyName=labelbox-assets-key-1&Signature=PfpyQtclF-pAafzeSGf0Lv_r3YU",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 265,
+      "y": 320,
+      "width": 43,
+      "height": 91,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 378,
+      "y": 330,
+      "width": 33,
+      "height": 71,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 375,
+      "y": 398,
+      "width": 43,
+      "height": 14
+    },
+    {
+      "name": "Knob",
+      "x": 378,
+      "y": 357,
+      "width": 7,
+      "height": 15
+    },
+    {
+      "name": "Door",
+      "x": 429,
+      "y": 335,
+      "width": 38,
+      "height": 74,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcr0uj5c000e3h607uv7d7lp",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fc38d9b60-e117-f500-385c-2345e5e5ec4d-2_AV_s2_557.0.jpg?Expires=1596983127322&KeyName=labelbox-assets-key-1&Signature=5lvu8iKGhaXfLxc7C2zAy9OA-sw",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 179,
+      "y": 374,
+      "width": 37,
+      "height": 74,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 549,
+      "y": 372,
+      "width": 35,
+      "height": 79,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcr0uwo3000f3h60io6azfj2",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F47aa3348-0b57-31e9-ceca-582211348ec6-2_AV_s2_817.0.jpg?Expires=1596983127323&KeyName=labelbox-assets-key-1&Signature=H3S6pCCSPcHJ1pq5P4dTDErN5MY",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 82,
+      "y": 299,
+      "width": 34,
+      "height": 66,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 58,
+      "y": 361,
+      "width": 62,
+      "height": 25
+    }
+  ]
+}{
+  "ID": "ckcr0v551000g3h60czkeirfl",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F8bdda297-debb-b91d-3af8-645fe7da441f-2_AV_s2_925.0.jpg?Expires=1596983127323&KeyName=labelbox-assets-key-1&Signature=lq423pjhuzjooE2o4t4qhJYk7eQ",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 546,
+      "y": 327,
+      "width": 42,
+      "height": 83,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcr0x11g000n3h60aa51swws",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F484cbf35-4358-7a72-b37c-49d867fb6ea2-2_AV_s1_130.0.jpg?Expires=1596983127324&KeyName=labelbox-assets-key-1&Signature=k3BAmoq-t0fZMCa4StxZs0duR5U",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 166,
+      "y": 365,
+      "width": 45,
+      "height": 76,
+      "type": "Double"
+    },
+    {
+      "name": "Knob",
+      "x": 185,
+      "y": 395,
+      "width": 4,
+      "height": 22
+    },
+    {
+      "name": "Knob",
+      "x": 188,
+      "y": 394,
+      "width": 6,
+      "height": 23
+    },
+    {
+      "name": "Door",
+      "x": 372,
+      "y": 368,
+      "width": 33,
+      "height": 73,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 423,
+      "y": 368,
+      "width": 63,
+      "height": 71,
+      "type": "Double"
+    },
+    {
+      "name": "Knob",
+      "x": 445,
+      "y": 395,
+      "width": 8,
+      "height": 15
+    },
+    {
+      "name": "Knob",
+      "x": 453,
+      "y": 395,
+      "width": 9,
+      "height": 17
+    },
+    {
+      "name": "Door",
+      "x": 486,
+      "y": 368,
+      "width": 55,
+      "height": 72,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckcr0xehk000o3h609q8wna3b",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F4d64ddcc-91ef-90f8-3618-eff2fa6a9623-2_AVE_s2_1165.0.jpg?Expires=1596983127324&KeyName=labelbox-assets-key-1&Signature=wJCuidb7bQlUrCGoSZ9swymnnuI",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 252,
+      "y": 299,
+      "width": 83,
+      "height": 170,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 244,
+      "y": 471,
+      "width": 94,
+      "height": 31
+    }
+  ]
+}{
+  "ID": "ckcr0y92g000s3h60vrb8htxd",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fa667f5df-29ef-3225-c8ba-4841d6a8631f-2_AV_s1_538.0.jpg?Expires=1596983127326&KeyName=labelbox-assets-key-1&Signature=4idpzPpRQ7h8KVTX2C-UV1HTZRk",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 234,
+      "y": 326,
+      "width": 73,
+      "height": 145,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 417,
+      "y": 335,
+      "width": 70,
+      "height": 138,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 407,
+      "y": 470,
+      "width": 90,
+      "height": 21
+    }
+  ]
+}{
+  "ID": "ckcr0yiiy000t3h60249cr8ba",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fe5153e6d-ba74-d59e-22d3-1799c3eddcd4-2_AV_s1_602.0.jpg?Expires=1596983127327&KeyName=labelbox-assets-key-1&Signature=V0l7fHubyng0sfeqw7kiZWp6JrI",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 244,
+      "y": 338,
+      "width": 65,
+      "height": 70,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckcr10iap00023h60rh6t08j7",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F49fd2f83-d580-6fc7-33b3-6902196498b0-2_AV_s1_1090.0.jpg?Expires=1596983127328&KeyName=labelbox-assets-key-1&Signature=OlK77WqOc9AD70vwD9jjLrchjr8",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 118,
+      "y": 321,
+      "width": 37,
+      "height": 86,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 116,
+      "y": 403,
+      "width": 38,
+      "height": 14
+    },
+    {
+      "name": "Door",
+      "x": 78,
+      "y": 322,
+      "width": 30,
+      "height": 85,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 272,
+      "y": 324,
+      "width": 35,
+      "height": 79,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 298,
+      "y": 360,
+      "width": 8,
+      "height": 11
+    }
+  ]
+}{
+  "ID": "ckcr11yd800003h603lsw0m4c",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fbf38ce9f-f8ed-0889-426f-2e272b2434b4-2_AV_s1_1220.0.jpg?Expires=1596983127328&KeyName=labelbox-assets-key-1&Signature=Yxn_gxn8gC9RpUeTIetazylzIA0",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 19,
+      "y": 352,
+      "width": 47,
+      "height": 119,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 372,
+      "y": 347,
+      "width": 48,
+      "height": 119,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 439,
+      "y": 343,
+      "width": 50,
+      "height": 117,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 508,
+      "y": 345,
+      "width": 60,
+      "height": 120,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcr13iht00013h60szqozqqv",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F4be535f6-d717-f115-0700-770ea430e42c-2_AV_s2_11.0.jpg?Expires=1596983127329&KeyName=labelbox-assets-key-1&Signature=mSiUgkqnC-P1lI869UU6CCIlbx8",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 37,
+      "y": 333,
+      "width": 36,
+      "height": 78,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 103,
+      "y": 330,
+      "width": 37,
+      "height": 73,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 85,
+      "y": 402,
+      "width": 59,
+      "height": 13
+    },
+    {
+      "name": "Door",
+      "x": 158,
+      "y": 330,
+      "width": 38,
+      "height": 78,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 223,
+      "y": 329,
+      "width": 32,
+      "height": 78,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 430,
+      "y": 341,
+      "width": 105,
+      "height": 91,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 343,
+      "y": 333,
+      "width": 33,
+      "height": 78,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcr14twq00033h60s18pzea6",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F499a45c0-9d71-7142-3cf4-f8b9983e481d-2_AV_s2_157.0.jpg?Expires=1596983127329&KeyName=labelbox-assets-key-1&Signature=bX54lJw8jZVcx5z-fzk8C30UxNo",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 32,
+      "y": 297,
+      "width": 37,
+      "height": 90,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 304,
+      "y": 314,
+      "width": 38,
+      "height": 90,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 570,
+      "y": 326,
+      "width": 70,
+      "height": 82,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckcr15a8400053h6067b5pxti",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fc7a94ef6-b406-d20b-e398-01ae37b6d203-2_AV_s2_369.0.jpg?Expires=1596983127329&KeyName=labelbox-assets-key-1&Signature=JR6B642u4KAcHwUF_B9VWo5jZwk",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 67,
+      "y": 308,
+      "width": 87,
+      "height": 111,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 306,
+      "y": 312,
+      "width": 50,
+      "height": 113,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcr15kjb00073h608dc9dkje",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fff078b98-22c6-c615-b94c-1b3a15644b39-2_AV_s2_563.0.jpg?Expires=1596983127330&KeyName=labelbox-assets-key-1&Signature=vptgr5sXJ9wdCKjfd8JjBdIIyaA",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 166,
+      "y": 315,
+      "width": 72,
+      "height": 152,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcr16d5o00093h608er29r8p",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fa48a5165-641c-601c-5c0c-921e33cf1394-2_AV_s2_931.0.jpg?Expires=1596983127331&KeyName=labelbox-assets-key-1&Signature=Raxd2lnnPohzlmXSs_N-VpIBBw8",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 0,
+      "y": 284,
+      "width": 52,
+      "height": 137,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 243,
+      "y": 312,
+      "width": 81,
+      "height": 114,
+      "type": "Double"
+    },
+    {
+      "name": "Knob",
+      "x": 276,
+      "y": 364,
+      "width": 7,
+      "height": 22
+    },
+    {
+      "name": "Knob",
+      "x": 283,
+      "y": 364,
+      "width": 7,
+      "height": 22
+    },
+    {
+      "name": "Door",
+      "x": 473,
+      "y": 294,
+      "width": 131,
+      "height": 131,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckcr16lh3000a3h60fh4it7ze",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fdfe7ed70-f84a-087f-01de-c4f8733a7cee-2_AV_s2_995.0.jpg?Expires=1596983127331&KeyName=labelbox-assets-key-1&Signature=gHGLVrVVoU6GkFVh2skVsalHyng",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 95,
+      "y": 326,
+      "width": 119,
+      "height": 111,
+      "type": "Automatic"
+    }
+  ]
+}{
+  "ID": "ckcr17eh1000h3h60zs469bp0",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F5c7a8894-1c34-6165-6fa0-d41915c858d5-2_AVE_s2_1171.0.jpg?Expires=1596983127333&KeyName=labelbox-assets-key-1&Signature=3qHrbDpcIG_eUYNaOgO-q7wemnU",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 83,
+      "y": 316,
+      "width": 84,
+      "height": 175,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 81,
+      "y": 487,
+      "width": 95,
+      "height": 25
+    },
+    {
+      "name": "Door",
+      "x": 447,
+      "y": 315,
+      "width": 61,
+      "height": 139,
+      "type": "Single"
+    },
+    {
+      "name": "Ramp",
+      "x": 444,
+      "y": 454,
+      "width": 90,
+      "height": 57
+    }
+  ]
+}{
+  "ID": "ckcr17zfo000i3h60bqqwlntv",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F45ab6ecc-a253-dc4e-38f7-91cd27f4d944-2_AV_s1_266.0.jpg?Expires=1596983127334&KeyName=labelbox-assets-key-1&Signature=S8d7ukkG8r4hHmLLhox5RIbZd8g",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 120,
+      "y": 344,
+      "width": 28,
+      "height": 70,
+      "type": "Double"
+    },
+    {
+      "name": "Knob",
+      "x": 139,
+      "y": 369,
+      "width": 8,
+      "height": 13
+    },
+    {
+      "name": "Door",
+      "x": 315,
+      "y": 338,
+      "width": 39,
+      "height": 78,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcr18mos000j3h60iehg93bo",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fa19b7749-93af-fafc-d498-32384d485810-2_AV_s1_348.0.jpg?Expires=1596983127335&KeyName=labelbox-assets-key-1&Signature=26Vvo6hC5QqXIrSom3AzKykJgtA",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 518,
+      "y": 329,
+      "width": 57,
+      "height": 64,
+      "type": "Double"
+    },
+    {
+      "name": "Knob",
+      "x": 538,
+      "y": 363,
+      "width": 10,
+      "height": 14
+    },
+    {
+      "name": "Knob",
+      "x": 550,
+      "y": 363,
+      "width": 7,
+      "height": 15
+    },
+    {
+      "name": "Door",
+      "x": 125,
+      "y": 330,
+      "width": 65,
+      "height": 75,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckcr192ku000n3h609v3k6a7b",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F8f929821-e359-e684-8cf9-fe4ffcfcb288-2_AV_s1_912.0.jpg?Expires=1596983127335&KeyName=labelbox-assets-key-1&Signature=v-v6YBpnYqvps7iAPGrNSlvA7lQ",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 43,
+      "y": 375,
+      "width": 78,
+      "height": 69,
+      "type": "Automatic"
+    }
+  ]
+}{
+  "ID": "ckcr19ep2000q3h604g765fvx",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Ffa552589-3b16-db46-a8aa-2bd3483c8688-2_AV_s1_1226.0.jpg?Expires=1596983127336&KeyName=labelbox-assets-key-1&Signature=oKLzz20354RegoBgJzKlqDIC1KI",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 138,
+      "y": 352,
+      "width": 96,
+      "height": 120,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckcr1ae0a000s3h60cngfrxj5",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fa52b8b10-b462-76e5-60de-37dc3685a422-2_AV_s2_81.0.jpg?Expires=1596983127336&KeyName=labelbox-assets-key-1&Signature=j9WNqT-GiCImivqvxkCAMtLTuCM",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 118,
+      "y": 223,
+      "width": 45,
+      "height": 115,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 537,
+      "y": 198,
+      "width": 99,
+      "height": 179,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 347,
+      "y": 194,
+      "width": 53,
+      "height": 142,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 574,
+      "y": 305,
+      "width": 13,
+      "height": 35
+    },
+    {
+      "name": "Knob",
+      "x": 587,
+      "y": 305,
+      "width": 9,
+      "height": 37
+    },
+    {
+      "name": "Stairs",
+      "x": 573,
+      "y": 396,
+      "width": 67,
+      "height": 86
+    }
+  ]
+}{
+  "ID": "ckcr1aq2k000u3h60m11m8j3j",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F700b0594-774d-f6e2-1d45-2994d4432455-2_AV_s2_293.0.jpg?Expires=1596983127337&KeyName=labelbox-assets-key-1&Signature=VgieDmi07SC3VDTjAc8qF0D0atE",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 223,
+      "y": 305,
+      "width": 48,
+      "height": 106,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcr1azc0000v3h60d9zwrqq8",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F96bc519f-8ea7-a216-8220-75ed49e97a05-2_AV_s2_375.0.jpg?Expires=1596983127337&KeyName=labelbox-assets-key-1&Signature=rnbxwK5PFmmDU7tuKFbfUe5bkwg",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 604,
+      "y": 308,
+      "width": 36,
+      "height": 129,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcr1baew000y3h608jirpqrj",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F7a32d8a0-f242-051f-3d80-1fd089e43a0d-2_AV_s2_829.0.jpg?Expires=1596983127337&KeyName=labelbox-assets-key-1&Signature=Vl0653J9YGo7JljxROWQVqja3OQ",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 206,
+      "y": 314,
+      "width": 56,
+      "height": 120,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcr1c5s800103h60ee69bdex",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F70f95bc7-7cae-8081-6651-934c12dc2d8a-2_AV_s2_1001.0.jpg?Expires=1596983127338&KeyName=labelbox-assets-key-1&Signature=nXFI6auAONJAEgEcHEiiz44Sk6c",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 76,
+      "y": 328,
+      "width": 49,
+      "height": 101,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 161,
+      "y": 327,
+      "width": 46,
+      "height": 105,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 112,
+      "y": 371,
+      "width": 11,
+      "height": 22
+    },
+    {
+      "name": "Knob",
+      "x": 160,
+      "y": 373,
+      "width": 10,
+      "height": 19
+    },
+    {
+      "name": "Door",
+      "x": 342,
+      "y": 313,
+      "width": 52,
+      "height": 134,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 383,
+      "y": 373,
+      "width": 9,
+      "height": 24
+    }
+  ]
+}{
+  "ID": "ckcr1cot700003h60bs8e3vyd",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fd98c8a04-258e-122d-2418-721e32b681b9-2_AV_s1_60.0.jpg?Expires=1596983127339&KeyName=labelbox-assets-key-1&Signature=LieS4kPe0Eh4rQaFxTU-Q2oCb78",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 112,
+      "y": 340,
+      "width": 31,
+      "height": 69,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 272,
+      "y": 323,
+      "width": 65,
+      "height": 89,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 565,
+      "y": 329,
+      "width": 29,
+      "height": 73,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 585,
+      "y": 359,
+      "width": 7,
+      "height": 16
+    }
+  ]
+}{
+  "ID": "ckcr1enym00033h604nv8d3nf",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F649741fa-8a37-e4fb-491b-5e6f43a3d837-2_AVE_s2_1177.0.jpg?Expires=1596983127340&KeyName=labelbox-assets-key-1&Signature=QDf_3M-q66o06DU0DWA5eEKTMEg",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 127,
+      "y": 277,
+      "width": 82,
+      "height": 184,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 123,
+      "y": 457,
+      "width": 92,
+      "height": 26
+    },
+    {
+      "name": "Door",
+      "x": 384,
+      "y": 272,
+      "width": 88,
+      "height": 180,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 373,
+      "y": 455,
+      "width": 106,
+      "height": 29
+    }
+  ]
+}{
+  "ID": "ckcr1ewf700043h608fxs4tnt",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F50c16dc6-a836-d383-afeb-9cdf7e3c55ff-2_AV_s1_272.0.jpg?Expires=1596983127340&KeyName=labelbox-assets-key-1&Signature=deaFX9TDzm3c09RYZNnL6xRLId4",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 596,
+      "y": 334,
+      "width": 34,
+      "height": 60,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcr1gb9000013h60l50kkdpd",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F6f7ba09e-9a9c-f852-a1b0-44bc1e22d784-2_AV_s1_420.0.jpg?Expires=1596983127340&KeyName=labelbox-assets-key-1&Signature=hc715ZSXsh4LfwEWpeXkGXfCha4",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 54,
+      "y": 356,
+      "width": 44,
+      "height": 85,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckcr1hd9600073h600485cbv8",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F3e169565-d852-53cd-1d84-d17ced4f7407-2_AV_s1_1232.0.jpg?Expires=1596983127341&KeyName=labelbox-assets-key-1&Signature=EDDjJKQrvOm8P1RtSn93eTDwR5o",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 64,
+      "y": 346,
+      "width": 53,
+      "height": 121,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 62,
+      "y": 464,
+      "width": 58,
+      "height": 14
+    },
+    {
+      "name": "Door",
+      "x": 300,
+      "y": 336,
+      "width": 67,
+      "height": 134,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 443,
+      "y": 321,
+      "width": 56,
+      "height": 143,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcr1hz1900083h60mmfcmng8",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fc09df4b8-1a5f-20d9-f972-f6d0f92ea04e-2_AV_s2_23.0.jpg?Expires=1596983127343&KeyName=labelbox-assets-key-1&Signature=rvBtPK0hIWpGf2mV4PM8dP9a_bg",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 77,
+      "y": 319,
+      "width": 79,
+      "height": 164,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 82,
+      "y": 382,
+      "width": 16,
+      "height": 35
+    },
+    {
+      "name": "Door",
+      "x": 184,
+      "y": 314,
+      "width": 82,
+      "height": 171,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 246,
+      "y": 386,
+      "width": 10,
+      "height": 33
+    }
+  ]
+}{
+  "ID": "ckcr1iudg000a3h60k8k9le7r",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F6ab4d4e6-1f09-abbf-7f46-78339d972577-2_AV_s2_169.0.jpg?Expires=1596983127343&KeyName=labelbox-assets-key-1&Signature=Tg6CVSl46eiSNx-NYlS8kU_KyjY",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 447,
+      "y": 290,
+      "width": 57,
+      "height": 106,
+      "type": "Double"
+    },
+    {
+      "name": "Knob",
+      "x": 465,
+      "y": 347,
+      "width": 9,
+      "height": 17
+    },
+    {
+      "name": "Knob",
+      "x": 472,
+      "y": 349,
+      "width": 9,
+      "height": 16
+    },
+    {
+      "name": "Stairs",
+      "x": 442,
+      "y": 391,
+      "width": 101,
+      "height": 46
+    }
+  ]
+}{
+  "ID": "ckcr1krft000c3h60v5bg76ce",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F9d539596-3542-f08b-4a09-58b416275223-2_AV_s2_381.0.jpg?Expires=1596983127344&KeyName=labelbox-assets-key-1&Signature=wQhW9XtZH80YRr5mvTwpIZYTA4A",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 404,
+      "y": 311,
+      "width": 53,
+      "height": 118,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 445,
+      "y": 370,
+      "width": 9,
+      "height": 21
+    },
+    {
+      "name": "Door",
+      "x": 461,
+      "y": 312,
+      "width": 55,
+      "height": 115,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 504,
+      "y": 370,
+      "width": 9,
+      "height": 21
+    }
+  ]
+}{
+  "ID": "ckcr1l1to000d3h60vvjow4uu",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F20d8890e-e75d-4188-2b25-171f07e40b19-2_AV_s2_511.0.jpg?Expires=1596983127344&KeyName=labelbox-assets-key-1&Signature=PnBj6lCOj5xvUqzE6ElOYQz0qxU",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 96,
+      "y": 275,
+      "width": 24,
+      "height": 43,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcr1la6l000e3h6087f0k3s3",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F4b0fd5c7-1421-6be7-64e3-9f602fbeb6f0-2_AV_s2_575.0.jpg?Expires=1596983127344&KeyName=labelbox-assets-key-1&Signature=C3EawVhHw8DZ22_01i0oUx5Bcnw",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 447,
+      "y": 299,
+      "width": 56,
+      "height": 148,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcr1ljdp000f3h60d2qje4vk",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F68d47038-10d5-2e50-98cc-59068815009a-2_AV_s2_835.0.jpg?Expires=1596983127345&KeyName=labelbox-assets-key-1&Signature=PImT9Kd8xgBBPcOR2wWt3Gf7TuM",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 33,
+      "y": 310,
+      "width": 56,
+      "height": 113,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcr1mpfk000g3h60xn9fvy4z",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F8c91c1aa-c602-79b5-a004-6d4903cc2c50-2_AV_s2_943.0.jpg?Expires=1596983127346&KeyName=labelbox-assets-key-1&Signature=jGiGuPI3V6sRXss4MuKDRI2mlfk",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 600,
+      "y": 332,
+      "width": 37,
+      "height": 79,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 481,
+      "y": 329,
+      "width": 63,
+      "height": 79,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckcr1n84e000h3h60tp2014ve",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Ff0bd5cbe-b250-d78f-6204-b1777be60fc4-2_AV_s2_1007.0.jpg?Expires=1596983127346&KeyName=labelbox-assets-key-1&Signature=UQo92BuV8OBP-eGEA_470-qbm2I",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 112,
+      "y": 313,
+      "width": 99,
+      "height": 112,
+      "type": "Double"
+    },
+    {
+      "name": "Knob",
+      "x": 155,
+      "y": 365,
+      "width": 7,
+      "height": 18
+    },
+    {
+      "name": "Knob",
+      "x": 164,
+      "y": 364,
+      "width": 8,
+      "height": 19
+    }
+  ]
+}{
+  "ID": "ckcr1olqm000i3h60xj5fg832",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F74b9c7fe-7b13-bb7c-9787-bcadfadf6a3d-2_AV_s2_1187.0.jpg?Expires=1596983127346&KeyName=labelbox-assets-key-1&Signature=cNLIC9s5ZIgFwLYZEPcB4t8QNJk",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 181,
+      "y": 321,
+      "width": 51,
+      "height": 126,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 175,
+      "y": 442,
+      "width": 68,
+      "height": 17
+    },
+    {
+      "name": "Knob",
+      "x": 182,
+      "y": 374,
+      "width": 12,
+      "height": 33
+    },
+    {
+      "name": "Door",
+      "x": 521,
+      "y": 284,
+      "width": 106,
+      "height": 148,
+      "type": "Double"
+    },
+    {
+      "name": "Stairs",
+      "x": 518,
+      "y": 429,
+      "width": 116,
+      "height": 19
+    }
+  ]
+}{
+  "ID": "ckcr1qiri00013h60vm34jgj0",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Faf8309e1-ac1a-ecb5-60a1-26e572570531-2_AV_s1_66.0.jpg?Expires=1596983127347&KeyName=labelbox-assets-key-1&Signature=nKbG7EFV6QBCRRWsTleTB8Ffwy8",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 357,
+      "y": 314,
+      "width": 101,
+      "height": 104,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 18,
+      "y": 315,
+      "width": 39,
+      "height": 106,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 257,
+      "y": 314,
+      "width": 49,
+      "height": 96,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 260,
+      "y": 357,
+      "width": 5,
+      "height": 19
+    },
+    {
+      "name": "Door",
+      "x": 502,
+      "y": 308,
+      "width": 50,
+      "height": 103,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcr1qw5a00033h6032hwrrla",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F60b8e609-c5de-72ea-b5ae-a46f47c984df-2_AV_s1_148.0.jpg?Expires=1596983127347&KeyName=labelbox-assets-key-1&Signature=NjYy2qZOL-FIICX6r_sde9f_RIM",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 514,
+      "y": 333,
+      "width": 77,
+      "height": 70,
+      "type": "Automatic"
+    }
+  ]
+}{
+  "ID": "ckcr1rysg00063h60ksd4w7pm",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fdb833175-4d53-3ad8-fc0b-485ae633203b-2_AV_s1_360.0.jpg?Expires=1596983127347&KeyName=labelbox-assets-key-1&Signature=2lzEun6OnX2uw2G54zbhZBsHEoU",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 96,
+      "y": 301,
+      "width": 38,
+      "height": 99,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 95,
+      "y": 351,
+      "width": 10,
+      "height": 18
+    },
+    {
+      "name": "Door",
+      "x": 309,
+      "y": 287,
+      "width": 45,
+      "height": 92,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 292,
+      "y": 379,
+      "width": 85,
+      "height": 44
+    },
+    {
+      "name": "Door",
+      "x": 481,
+      "y": 302,
+      "width": 48,
+      "height": 110,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 485,
+      "y": 342,
+      "width": 9,
+      "height": 31
+    }
+  ]
+}{
+  "ID": "ckcr1sfnf00083h602hl1zemk",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F36065862-977f-fb68-da93-b3ad79094310-2_AV_s1_556.0.jpg?Expires=1596983127348&KeyName=labelbox-assets-key-1&Signature=Ory0-kx9DbsDyXBHER5_3w3Xsi0",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 136,
+      "y": 316,
+      "width": 65,
+      "height": 130,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 513,
+      "y": 303,
+      "width": 61,
+      "height": 130,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrq5g2900003h606osmcl2r",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fe54253e0-79e9-9888-49ac-3e37db9f4ede-2_AV_s1_924.0.jpg?Expires=1596983127349&KeyName=labelbox-assets-key-1&Signature=PdVsW5UyRzrj5ByMnCuUgZNjRrg",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 138,
+      "y": 332,
+      "width": 39,
+      "height": 68,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrq5uqq00013h607b9liipv",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F53ef448e-b698-d351-3d0a-13348f049c43-2_AV_s1_994.0.jpg?Expires=1596983127349&KeyName=labelbox-assets-key-1&Signature=Dny8v_GkGJfaj6PT4xrCFqyO1Qg",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 171,
+      "y": 337,
+      "width": 33,
+      "height": 73,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrq69w300023h600g4tm9co",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Ff255f0f8-0353-2332-d6b5-87973c675dad-2_AV_s1_1108.0.jpg?Expires=1596983127349&KeyName=labelbox-assets-key-1&Signature=b0RUdmP95W3fyeI7ITS5ilZ4W9g",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 310,
+      "y": 341,
+      "width": 47,
+      "height": 105,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrq789s00043h60fqg3bka3",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fc6d6cb51-1501-0e85-bf94-471d20443cb6-2_AV_s2_29.0.jpg?Expires=1596983127349&KeyName=labelbox-assets-key-1&Signature=dlB0-sZTZ0_nFJ3fTphYRsmYHA4",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 299,
+      "y": 300,
+      "width": 28,
+      "height": 164,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 476,
+      "y": 307,
+      "width": 73,
+      "height": 153,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrq8t6100053h600mcvp5sx",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F815b00e1-196e-4298-eb8d-be4e918fb0f0-2_AV_s2_93.0.jpg?Expires=1596983127350&KeyName=labelbox-assets-key-1&Signature=RQfCyVouZwrsaueWSOmihOhCJ0s",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 363,
+      "y": 337,
+      "width": 38,
+      "height": 88,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrq937700063h60457ti6ow",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Ffeae4494-2f07-d2aa-6177-0d8877f733e2-2_AV_s2_175.0.jpg?Expires=1596983127350&KeyName=labelbox-assets-key-1&Signature=mEnpQz35NDQac1tpNgTTDwVYnuU",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 123,
+      "y": 329,
+      "width": 34,
+      "height": 89,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrqc11z00073h60xrrkcho5",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fd936b74a-26d5-8985-2090-fb5c269bdf8a-2_AV_s2_305.0.jpg?Expires=1596983127350&KeyName=labelbox-assets-key-1&Signature=WbM-WUt0_d_-5fonf6c2u81800s",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 389,
+      "y": 294,
+      "width": 50,
+      "height": 107,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 496,
+      "y": 300,
+      "width": 52,
+      "height": 108,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 391,
+      "y": 401,
+      "width": 58,
+      "height": 24
+    },
+    {
+      "name": "Stairs",
+      "x": 498,
+      "y": 410,
+      "width": 58,
+      "height": 14
+    },
+    {
+      "name": "Door",
+      "x": 312,
+      "y": 262,
+      "width": 56,
+      "height": 153,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrqcho100083h60o3t7754o",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F41a7157e-8399-91a2-c7ba-336ea0cbe285-2_AV_s2_387.0.jpg?Expires=1596983127352&KeyName=labelbox-assets-key-1&Signature=cJR03ybBynfetgTwlp1AFN-VRDE",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 157,
+      "y": 288,
+      "width": 68,
+      "height": 118,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrqd5qy000a3h60xptsjh8n",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F1fb07503-d644-f1e8-b6f3-aced7703961c-2_AV_s2_581.0.jpg?Expires=1596983127352&KeyName=labelbox-assets-key-1&Signature=3KcYJr-le2PKYPg0yi4wSLL769A",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 305,
+      "y": 289,
+      "width": 61,
+      "height": 156,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 99,
+      "y": 289,
+      "width": 106,
+      "height": 155,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckcrqfavh000c3h60wwr2km3m",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fbe62d704-534d-ed05-2b82-ca32f6a3dd50-2_AV_s2_949.0.jpg?Expires=1596983127353&KeyName=labelbox-assets-key-1&Signature=tgNd-1RcRUpK5m2MmsRbVy09FOQ",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 456,
+      "y": 353,
+      "width": 43,
+      "height": 90,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 574,
+      "y": 353,
+      "width": 44,
+      "height": 90,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrqgccv000f3h60lme2nnhw",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F655b7057-8163-b9f7-8576-4b10b7dcd980-2_AV_s2_1257.0.jpg?Expires=1596983127353&KeyName=labelbox-assets-key-1&Signature=eR9VvL70g-CGTaBz-hR7zUT7KPo",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 33,
+      "y": 314,
+      "width": 85,
+      "height": 163,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 27,
+      "y": 481,
+      "width": 89,
+      "height": 32
+    }
+  ]
+}{
+  "ID": "ckcrqh35t000m3h60woehakdj",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F649131cf-5735-bc64-ae73-4ed6e04739fc-2_AV_s1_368.0.jpg?Expires=1596983127354&KeyName=labelbox-assets-key-1&Signature=OqBwqVHNcCFIYUi-LILwAFpBdMk",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 348,
+      "y": 303,
+      "width": 70,
+      "height": 101,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckcrqi9zy000o3h60ehzc1tzi",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Ff855475b-2a31-9dfd-3100-668b82fe179e-2_AV_s1_562.0.jpg?Expires=1596983127355&KeyName=labelbox-assets-key-1&Signature=LGdjkUlEPXsHYU7tQljbU0sn75I",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 262,
+      "y": 361,
+      "width": 73,
+      "height": 87,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 384,
+      "y": 361,
+      "width": 55,
+      "height": 85,
+      "type": "Single"
+    },
+    {
+      "name": "Ramp",
+      "x": 43,
+      "y": 438,
+      "width": 206,
+      "height": 70
+    }
+  ]
+}{
+  "ID": "ckcrqjr0u000r3h60bwhqc1bj",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Ff4aace31-ddab-c7a0-551b-f586515fc8e3-2_AV_s1_1000.0.jpg?Expires=1596983127356&KeyName=labelbox-assets-key-1&Signature=8s0SXgFBWpxlnT1adUfEDz-SGiU",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 137,
+      "y": 334,
+      "width": 62,
+      "height": 71,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckcrqk3li000s3h60kwg5gqf9",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fa59bf740-6a35-6934-f94d-0354d1daf1ed-2_AV_s1_1180.0.jpg?Expires=1596983127356&KeyName=labelbox-assets-key-1&Signature=JerUAbAK5sjpUkmh6V26yLcrYqk",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 134,
+      "y": 314,
+      "width": 37,
+      "height": 57,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrql2uc000z3h6040u6dnxl",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fdee95fe0-22f3-b813-3697-f53498972c0c-2_AV_s2_523.0.jpg?Expires=1596983127357&KeyName=labelbox-assets-key-1&Signature=0F4cR6854ANeLSb3CrLeSn2kNsg",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 609,
+      "y": 299,
+      "width": 31,
+      "height": 176,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrqlzew00123h60enfz22s9",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F46182be1-c22c-e03a-9c25-5235a6e6f04f-2_AV_s2_955.0.jpg?Expires=1596983127357&KeyName=labelbox-assets-key-1&Signature=tBWCkc956L7eAZ9DW1Y1ZLXZJIs",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 214,
+      "y": 344,
+      "width": 82,
+      "height": 102,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckcrqmfux00153h606iyzztja",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F6374adc1-9300-f1bc-8adb-40e0c8d857b0-2_AV_s2_1263.0.jpg?Expires=1596983127358&KeyName=labelbox-assets-key-1&Signature=W3kn1lRgyXas3N-JK3zn-Qg45OE",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 34,
+      "y": 314,
+      "width": 80,
+      "height": 167,
+      "type": "Single"
+    },
+    {
+      "name": "Ramp",
+      "x": 19,
+      "y": 483,
+      "width": 95,
+      "height": 29
+    }
+  ]
+}{
+  "ID": "ckcrqnzk600173h60tkldwxja",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Ff3436ba1-7298-ab10-4a78-465934c0fdcb-2_AV_s1_78.0.jpg?Expires=1596983127359&KeyName=labelbox-assets-key-1&Signature=poe5pKKWzeZRDFTZq2s5Q6Q9qUA",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 86,
+      "y": 373,
+      "width": 28,
+      "height": 78,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrqpjp4001d3h60286icio8",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F71f839cd-9cef-d02b-4ea2-71799b489aae-2_AV_s1_504.0.jpg?Expires=1596983127360&KeyName=labelbox-assets-key-1&Signature=WfRcC_1Zmgv_so1KqEyjIAHTTWE",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 297,
+      "y": 335,
+      "width": 64,
+      "height": 84,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckcrqrmfe001g3h601kwdpjzp",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F4078e14d-209c-7c31-e6ff-121939eae0c6-2_AV_s1_936.0.jpg?Expires=1596983127361&KeyName=labelbox-assets-key-1&Signature=LFPYXeGD_a_hXa5bc62gVbwZFX0",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 549,
+      "y": 333,
+      "width": 35,
+      "height": 69,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 426,
+      "y": 332,
+      "width": 33,
+      "height": 68,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrqrx3t001h3h60xhgnii3h",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fe86b2e54-1edb-138a-c39a-e63f3c26594c-2_AV_s1_1006.0.jpg?Expires=1596983127361&KeyName=labelbox-assets-key-1&Signature=xJpowGVzq8K0DUwenYktRB76gP8",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 325,
+      "y": 360,
+      "width": 52,
+      "height": 72,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckcrqsakm001i3h60azo5g8wl",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Feef788bb-79e7-1270-dfd6-84bbac51ce20-2_AV_s1_1186.0.jpg?Expires=1596983127361&KeyName=labelbox-assets-key-1&Signature=7XFVZRB474bqEE_G0K1L6mrJ5Hk",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 284,
+      "y": 340,
+      "width": 41,
+      "height": 90,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrqsnsv001k3h600m4cpctd",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F2ef5df7e-347b-cc2e-2949-c3b16aeb1bf5-2_AV_s2_41.0.jpg?Expires=1596983127361&KeyName=labelbox-assets-key-1&Signature=j2R-PJe0LJeqs-_k4NJdLtSgZeU",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 355,
+      "y": 309,
+      "width": 39,
+      "height": 88,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrqtbt0001n3h60wwusemnl",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fb743d00d-9446-cfa6-cae1-2c045e33340d-2_AV_s2_317.0.jpg?Expires=1596983127362&KeyName=labelbox-assets-key-1&Signature=YTqmYyZlaI2KHeW6CpPtlSsYW0c",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 0,
+      "y": 310,
+      "width": 25,
+      "height": 70,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckcrqtu32001q3h60yu4iot3n",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F0664a6b6-1c4b-ee8c-490d-fdd3ba7d3718-2_AV_s2_593.0.jpg?Expires=1596983127365&KeyName=labelbox-assets-key-1&Signature=i7xfUKsoxcUL_SA4Sbke3KFqYPg",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 34,
+      "y": 285,
+      "width": 52,
+      "height": 129,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrquak5001r3h60rsx4zirt",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fb53f7977-5377-264e-ac35-7290f59b65e6-2_AV_s2_853.0.jpg?Expires=1596983127365&KeyName=labelbox-assets-key-1&Signature=KqmSMUx7_2BmW5dk24IOSabC__w",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 24,
+      "y": 307,
+      "width": 73,
+      "height": 170,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 74,
+      "y": 386,
+      "width": 21,
+      "height": 18
+    }
+  ]
+}{
+  "ID": "ckcrqvflz001x3h60sk6f2by6",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F2e1cb192-b0af-0076-0b00-980aa16828ac-2_AV_s1_84.0.jpg?Expires=1596983127366&KeyName=labelbox-assets-key-1&Signature=g6NvqVFThz28b4H5IvIvMCEuLXk",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 508,
+      "y": 344,
+      "width": 60,
+      "height": 92,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 83,
+      "y": 374,
+      "width": 66,
+      "height": 85,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 170,
+      "y": 370,
+      "width": 32,
+      "height": 82,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrqvsx1001y3h607qny5cme",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fbed7b78a-f511-71cf-ebf8-6c4691b8b415-2_AVE_s2_1137.0.jpg?Expires=1596983127366&KeyName=labelbox-assets-key-1&Signature=R1HREgowMxf5p0FgAOqxrHi3qE0",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 459,
+      "y": 300,
+      "width": 79,
+      "height": 172,
+      "type": "Single"
+    },
+    {
+      "name": "Ramp",
+      "x": 448,
+      "y": 465,
+      "width": 108,
+      "height": 32
+    }
+  ]
+}{
+  "ID": "ckcrqwtjj001z3h60w0vygi5a",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fa17a5c73-b2ab-2f7a-e265-442b14da4c9e-2_AV_s1_166.0.jpg?Expires=1596983127366&KeyName=labelbox-assets-key-1&Signature=MCOisQFSNH3vAEqTzzgPRn90UBw",
+  "Annotations": [
+    {
+      "name": "Stairs",
+      "x": 1,
+      "y": 279,
+      "width": 117,
+      "height": 153
+    },
+    {
+      "name": "Door",
+      "x": 0,
+      "y": 139,
+      "width": 68,
+      "height": 136,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 248,
+      "y": 299,
+      "width": 56,
+      "height": 107,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 499,
+      "y": 322,
+      "width": 54,
+      "height": 93,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrqxjvv00233h60ubsx5s32",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F8ee40d69-a855-a4fd-32d6-9e4d18af1ae7-2_AV_s1_510.0.jpg?Expires=1596983127367&KeyName=labelbox-assets-key-1&Signature=y1TZscBdFAqYXbqRvIstTg-xEBo",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 94,
+      "y": 341,
+      "width": 36,
+      "height": 75,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 39,
+      "y": 346,
+      "width": 35,
+      "height": 68,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrqxyys00243h604lmnq732",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fa75a5223-f794-418e-da02-7256f014e432-2_AV_s1_574.0.jpg?Expires=1596983127367&KeyName=labelbox-assets-key-1&Signature=jk-jfkHsJpNFnH-kkqlBo-LvCmI",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 109,
+      "y": 340,
+      "width": 44,
+      "height": 76,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 464,
+      "y": 333,
+      "width": 44,
+      "height": 83,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrqzc9u00263h60v2evs14c",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fff945e73-4f68-e9ea-be13-64894f020a92-2_AV_s1_942.0.jpg?Expires=1596983127368&KeyName=labelbox-assets-key-1&Signature=8eJkDIOgEbW_zGg8VF6Tl926hvQ",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 76,
+      "y": 322,
+      "width": 61,
+      "height": 135,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrqzyn800283h60eps4jnp3",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F337d0068-8228-f5b3-202b-2d8abe628c5b-2_AV_s1_1192.0.jpg?Expires=1596983127369&KeyName=labelbox-assets-key-1&Signature=6rWE7VgWxK9TLQ7naQk_EzclJWE",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 458,
+      "y": 332,
+      "width": 47,
+      "height": 89,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 12,
+      "y": 322,
+      "width": 40,
+      "height": 90,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrr096d00293h60u2rtecyz",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fd2d2e56e-cab8-76b7-cd96-a221c21c2225-2_AV_s1_1256.0.jpg?Expires=1596983127369&KeyName=labelbox-assets-key-1&Signature=iBezmupwldhQUxWAVGz21MejRrk",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 584,
+      "y": 261,
+      "width": 56,
+      "height": 163,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrr0za2002a3h60gkgjv57f",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Ff06748dc-c1a7-51bd-02b5-e13de8321695-2_AV_s2_47.0.jpg?Expires=1596983127369&KeyName=labelbox-assets-key-1&Signature=qdNDA8cIxpwgjcPS4uqz0c6KrzU",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 29,
+      "y": 341,
+      "width": 38,
+      "height": 68,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 216,
+      "y": 345,
+      "width": 32,
+      "height": 67,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 465,
+      "y": 331,
+      "width": 27,
+      "height": 71,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrr1m6q002b3h60pek4bdg6",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F88ab1ba1-0084-4d18-f2ea-be6672e06b32-2_AV_s2_129.0.jpg?Expires=1596983127369&KeyName=labelbox-assets-key-1&Signature=Hob7AaAsMnQ2MllOD5IfVU3FUvQ",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 175,
+      "y": 252,
+      "width": 35,
+      "height": 172,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrx2yku00003h60zfnlbdvt",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fbb007665-8ccb-768f-091f-14f479822020-2_AV_s2_341.0.jpg?Expires=1596983127369&KeyName=labelbox-assets-key-1&Signature=kYGZtZJDSvHoV8ANNAlYM4GBZjE",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 312,
+      "y": 318,
+      "width": 68,
+      "height": 101,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckcrx46j900023h6057g21bt1",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F34fb9ce1-244d-2ff7-7c1a-8738dfa60837-2_AV_s2_535.0.jpg?Expires=1596983127370&KeyName=labelbox-assets-key-1&Signature=Y5MhxIz0XDMCH8mrmGKW_TswaLA",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 109,
+      "y": 279,
+      "width": 82,
+      "height": 171,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 496,
+      "y": 282,
+      "width": 80,
+      "height": 175,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 565,
+      "y": 371,
+      "width": 9,
+      "height": 18
+    },
+    {
+      "name": "Door",
+      "x": 27,
+      "y": 284,
+      "width": 75,
+      "height": 165,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 84,
+      "y": 369,
+      "width": 17,
+      "height": 23
+    }
+  ]
+}{
+  "ID": "ckcrx4y2y00033h601ehmf68c",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fb2d5d072-184c-6da0-075a-42e78214a116-2_AV_s2_599.0.jpg?Expires=1596983127371&KeyName=labelbox-assets-key-1&Signature=27v2y-fzJS3RNuxRwskvQLmr5Pk",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 321,
+      "y": 323,
+      "width": 49,
+      "height": 97,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 323,
+      "y": 369,
+      "width": 13,
+      "height": 14
+    },
+    {
+      "name": "Door",
+      "x": 223,
+      "y": 320,
+      "width": 40,
+      "height": 97,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 72,
+      "y": 319,
+      "width": 44,
+      "height": 94,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrx5moh00073h60rbfu7fl2",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F40bbcba3-1f8c-81bf-e50f-756406be486a-2_AV_s2_1211.0.jpg?Expires=1596983127371&KeyName=labelbox-assets-key-1&Signature=BXnZ7Id3I8iNfkPJN_zt0tqSRH0",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 321,
+      "y": 253,
+      "width": 130,
+      "height": 377,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 13,
+      "y": 373,
+      "width": 53,
+      "height": 60
+    }
+  ]
+}{
+  "ID": "ckcrx6kti00093h60l769rp9i",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F4da3d380-30d6-2930-ab25-b54b75725cb3-2_AV_s1_26.0.jpg?Expires=1596983127372&KeyName=labelbox-assets-key-1&Signature=-99ilIraMPmETFdSG3DknuPm5Gc",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 136,
+      "y": 360,
+      "width": 38,
+      "height": 70,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 86,
+      "y": 365,
+      "width": 40,
+      "height": 67,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 425,
+      "y": 351,
+      "width": 39,
+      "height": 68,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 314,
+      "y": 354,
+      "width": 43,
+      "height": 74,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrx7avt000d3h60al2emoot",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fe7e2a3cc-fd70-ffad-3867-9e1b9a8cbf7b-2_AV_s1_172.0.jpg?Expires=1596983127372&KeyName=labelbox-assets-key-1&Signature=t_kO7-zagRiXNyQeUqQ4yV7M2lE",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 299,
+      "y": 331,
+      "width": 46,
+      "height": 85,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 567,
+      "y": 343,
+      "width": 44,
+      "height": 67,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 126,
+      "y": 326,
+      "width": 40,
+      "height": 81,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrx7u5w000f3h608fxzdc96",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fbcdc2e11-c5e9-a7f3-415f-0716f199e1f6-2_AV_s1_302.0.jpg?Expires=1596983127374&KeyName=labelbox-assets-key-1&Signature=95kELO_sKnNyaJX7-IrlURwomws",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 73,
+      "y": 331,
+      "width": 48,
+      "height": 69,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 331,
+      "y": 327,
+      "width": 53,
+      "height": 76,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckcrx8lbz000k3h60dn8ltbwh",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fbb835060-1b41-038f-7e1a-3d7e9736dd48-2_AV_s1_948.0.jpg?Expires=1596983127375&KeyName=labelbox-assets-key-1&Signature=aRD_2NkPdvgDCJFZhW4_hHACItw",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 157,
+      "y": 297,
+      "width": 102,
+      "height": 141,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 520,
+      "y": 317,
+      "width": 71,
+      "height": 147,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 135,
+      "y": 431,
+      "width": 126,
+      "height": 52
+    }
+  ]
+}{
+  "ID": "ckcrx8svz000m3h60b9mf4wpv",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F0c2f959a-dd30-c37b-1910-a4bc9ba0d16a-2_AV_s1_1198.0.jpg?Expires=1596983127376&KeyName=labelbox-assets-key-1&Signature=J5z5WAHKiHwWJZ2vU1S2GwtEC1w",
+  "Annotations": [
+    {
+      "name": "Stairs",
+      "x": 389,
+      "y": 364,
+      "width": 167,
+      "height": 30
+    }
+  ]
+}{
+  "ID": "ckcrx972e000n3h60bgv3g4io",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fee6db66c-5779-9138-61ad-4234831744e3-2_AV_s1_1262.0.jpg?Expires=1596983127376&KeyName=labelbox-assets-key-1&Signature=nQMeTK8xKpaSUN-HIA8zfm-YU_Y",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 583,
+      "y": 256,
+      "width": 57,
+      "height": 164,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 586,
+      "y": 338,
+      "width": 12,
+      "height": 41
+    },
+    {
+      "name": "Stairs",
+      "x": 549,
+      "y": 426,
+      "width": 91,
+      "height": 23
+    }
+  ]
+}{
+  "ID": "ckcrx9t1a000p3h60vrnswlgd",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F0f0eeb69-19b6-79ec-58fc-8bf80564296c-2_AV_s2_135.0.jpg?Expires=1596983127378&KeyName=labelbox-assets-key-1&Signature=528dfrKZK0m9R4S--9a-EWAaejw",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 21,
+      "y": 299,
+      "width": 147,
+      "height": 157,
+      "type": "Double"
+    },
+    {
+      "name": "Knob",
+      "x": 84,
+      "y": 372,
+      "width": 24,
+      "height": 29
+    },
+    {
+      "name": "Door",
+      "x": 418,
+      "y": 252,
+      "width": 149,
+      "height": 207,
+      "type": "Double"
+    },
+    {
+      "name": "Knob",
+      "x": 469,
+      "y": 368,
+      "width": 33,
+      "height": 29
+    }
+  ]
+}{
+  "ID": "ckcrxa72b000r3h60u6rmz6rh",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F22101ed7-739c-504e-c5f6-0bfc7fb1ffcd-2_AV_s2_347.0.jpg?Expires=1596983127379&KeyName=labelbox-assets-key-1&Signature=ZjBZetZHfAOzmXooTuOao5qZvH0",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 60,
+      "y": 330,
+      "width": 79,
+      "height": 87,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 0,
+      "y": 320,
+      "width": 27,
+      "height": 99,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrxafyn000t3h60lv5mq1q0",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Faef75a1e-e65e-d62a-7c63-7a347f144b2f-2_AV_s2_541.0.jpg?Expires=1596983127379&KeyName=labelbox-assets-key-1&Signature=oRCBDpF0UifhGchyNiOIO8d5Rts",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 273,
+      "y": 288,
+      "width": 82,
+      "height": 179,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrxaytn000v3h607z8f0fvs",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F55cfafd7-208a-75b8-6ad7-e8aa70ea3d03-2_AV_s2_909.0.jpg?Expires=1596983127380&KeyName=labelbox-assets-key-1&Signature=xroSAkCb7yYvCJtxmsQQaEm86EQ",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 251,
+      "y": 283,
+      "width": 73,
+      "height": 161,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 557,
+      "y": 327,
+      "width": 69,
+      "height": 161,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 605,
+      "y": 414,
+      "width": 21,
+      "height": 19
+    }
+  ]
+}{
+  "ID": "ckcrxc41z000x3h60ku225fzd",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F6770e733-83d2-d45a-d88b-52ee6d7a96ef-2_AV_s2_1087.0.jpg?Expires=1596983127380&KeyName=labelbox-assets-key-1&Signature=cvd5orO6JTEWVZCuTZ5rN1d1AkM",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 214,
+      "y": 332,
+      "width": 65,
+      "height": 84,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 562,
+      "y": 311,
+      "width": 47,
+      "height": 106,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 422,
+      "y": 314,
+      "width": 44,
+      "height": 102,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 143,
+      "y": 332,
+      "width": 41,
+      "height": 82,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 239,
+      "y": 364,
+      "width": 16,
+      "height": 23
+    },
+    {
+      "name": "Knob",
+      "x": 453,
+      "y": 367,
+      "width": 9,
+      "height": 13
+    },
+    {
+      "name": "Knob",
+      "x": 562,
+      "y": 372,
+      "width": 17,
+      "height": 15
+    },
+    {
+      "name": "Knob",
+      "x": 172,
+      "y": 366,
+      "width": 13,
+      "height": 25
+    }
+  ]
+}{
+  "ID": "ckcrxcfiq00103h60gwsiy723",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F0f79312d-3f86-33f6-c433-4207ff50b54a-2_AV_s1_32.0.jpg?Expires=1596983127382&KeyName=labelbox-assets-key-1&Signature=5Rabu6bIBwRLsKASZj4gMEtv02o",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 379,
+      "y": 345,
+      "width": 51,
+      "height": 90,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckcrxcwyw00123h60mf5hlkrh",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fe9755ab2-e22b-f207-dfe7-0b073e1da5b8-2_AV_s1_96.0.jpg?Expires=1596983127384&KeyName=labelbox-assets-key-1&Signature=yYM5IJV1rMkoaTMM82ASTS7UyyA",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 332,
+      "y": 331,
+      "width": 47,
+      "height": 68,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 180,
+      "y": 334,
+      "width": 30,
+      "height": 56,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrxd8jr00143h60lyiogyp3",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F4576b263-7330-c36a-27e2-fa8ed3257294-2_AV_s1_178.0.jpg?Expires=1596983127385&KeyName=labelbox-assets-key-1&Signature=yxQGIpUp6Wo9V1qBnw7XPODSs_8",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 535,
+      "y": 315,
+      "width": 94,
+      "height": 107,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckcrxe86f00163h60fyjzgdby",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F2ec97077-0a8f-2e47-1bed-5ed9f2c7ccc4-2_AV_s1_308.0.jpg?Expires=1596983127385&KeyName=labelbox-assets-key-1&Signature=EQRUIMQRZkrXvoI7rKcPtRRA4J8",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 304,
+      "y": 333,
+      "width": 38,
+      "height": 70,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 428,
+      "y": 333,
+      "width": 45,
+      "height": 65,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 118,
+      "y": 336,
+      "width": 31,
+      "height": 68,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 77,
+      "y": 332,
+      "width": 30,
+      "height": 77,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrxefu500173h60vlggv5hc",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F880daf59-d965-06ac-75bf-ae71fa0dcd95-2_AV_s1_392.0.jpg?Expires=1596983127386&KeyName=labelbox-assets-key-1&Signature=vihta5Z337k_neaywR_dNhsHgzw",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 498,
+      "y": 310,
+      "width": 42,
+      "height": 88,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrxelt800183h60wxkzyk7d",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F36fb16fc-0c55-cb7d-464b-b224bd346ae0-2_AV_s1_522.0.jpg?Expires=1596983127386&KeyName=labelbox-assets-key-1&Signature=W_Iw48mK_3AbOLwq7Dbsu8EEBdA",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 12,
+      "y": 334,
+      "width": 59,
+      "height": 152,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckcrxhobr001e3h60zpno3kyj",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fb474505b-9787-4b33-4192-22d140845dd3-2_AV_s1_1268.0.jpg?Expires=1596983127393&KeyName=labelbox-assets-key-1&Signature=hM_bMAVHP2-cSB4PHLz0nX6N8tw",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 514,
+      "y": 362,
+      "width": 61,
+      "height": 106,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckcrxlgpa001f3h60zkv1g217",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F0e4a4602-c4b3-c3ac-75d8-d045c65252f8-2_AV_s2_59.0.jpg?Expires=1596983127393&KeyName=labelbox-assets-key-1&Signature=ePb10BlFzLJiivfaz_QXabv7Mlk",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 327,
+      "y": 290,
+      "width": 97,
+      "height": 147,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 1,
+      "y": 291,
+      "width": 46,
+      "height": 135,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 510,
+      "y": 295,
+      "width": 110,
+      "height": 140,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckd21qpwn00003h60d64a4tm9",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F56361ee8-2ee3-c57d-94d3-db227fbb9d5b-2_AV_s2_271.0.jpg?Expires=1596983127393&KeyName=labelbox-assets-key-1&Signature=Zj_sg-vt24sJUSZfoZyZQJZKPek",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 431,
+      "y": 305,
+      "width": 86,
+      "height": 113,
+      "type": "Double"
+    },
+    {
+      "name": "Knob",
+      "x": 465,
+      "y": 342,
+      "width": 7,
+      "height": 57
+    },
+    {
+      "name": "Knob",
+      "x": 472,
+      "y": 342,
+      "width": 8,
+      "height": 58
+    }
+  ]
+}{
+  "ID": "ckd21r07j00013h60bqoao1ud",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fc2609459-9a37-dcd2-5a2e-72aae60e61ec-2_AV_s2_353.0.jpg?Expires=1596983127394&KeyName=labelbox-assets-key-1&Signature=saPs-uZhpbjNXZxIhJ3Qb74PZNg",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 30,
+      "y": 331,
+      "width": 39,
+      "height": 76,
+      "type": "Automatic"
+    }
+  ]
+}{
+  "ID": "ckd21rpo300053h60xrrwlv93",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F4ccfb187-5e08-ce11-98dd-743092f3af5b-2_AV_s2_915.0.jpg?Expires=1596983127394&KeyName=labelbox-assets-key-1&Signature=GQ-YHdULaDgAyIDPKMhPTt-yqMo",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 298,
+      "y": 242,
+      "width": 75,
+      "height": 210,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 380,
+      "y": 246,
+      "width": 67,
+      "height": 203,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckd21sdid000f3h60pyelo0bj",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F4fe6a4ef-e7f0-0726-e4c4-a260b7becb08-2_AV_s1_314.0.jpg?Expires=1596983127396&KeyName=labelbox-assets-key-1&Signature=NwGeF3m9fFVmHdxLR7o2hq2YNaw",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 415,
+      "y": 336,
+      "width": 44,
+      "height": 74,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckd21sw3p000g3h60oyjf10tx",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fdb019115-8bdc-ab12-6f39-e2004b520ff5-2_AV_s1_398.0.jpg?Expires=1596983127396&KeyName=labelbox-assets-key-1&Signature=eLCqz5nwtPR0gzIhb0IojPcmp_Q",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 515,
+      "y": 334,
+      "width": 31,
+      "height": 67,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 181,
+      "y": 336,
+      "width": 42,
+      "height": 83,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckd21tnh2000h3h60jqhfnu5p",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fee8e9e10-bc0e-c859-7ce6-cfed9be5bd91-2_AV_s1_528.0.jpg?Expires=1596983127397&KeyName=labelbox-assets-key-1&Signature=We6c-kvmL3lE9BIZ60sT-o8E8eQ",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 130,
+      "y": 320,
+      "width": 61,
+      "height": 154,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 139,
+      "y": 404,
+      "width": 9,
+      "height": 17
+    },
+    {
+      "name": "Stairs",
+      "x": 116,
+      "y": 474,
+      "width": 82,
+      "height": 21
+    },
+    {
+      "name": "Door",
+      "x": 321,
+      "y": 292,
+      "width": 67,
+      "height": 182,
+      "type": "Single"
+    },
+    {
+      "name": "Ramp",
+      "x": 321,
+      "y": 473,
+      "width": 67,
+      "height": 28
+    }
+  ]
+}{
+  "ID": "ckd21u1dg000i3h60a2mlv8pf",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fe65421db-0174-11ef-3f65-dff1babbbcfd-2_AV_s1_592.0.jpg?Expires=1596983127397&KeyName=labelbox-assets-key-1&Signature=B3jFU83aAW40qIvvcjjmp6pyEKc",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 476,
+      "y": 337,
+      "width": 39,
+      "height": 77,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 574,
+      "y": 339,
+      "width": 34,
+      "height": 75,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckd21ueej000j3h60w58kf684",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F2af911ba-f9f5-8097-f23b-6ac2de01cfc2-2_AV_s1_852.0.jpg?Expires=1596983127397&KeyName=labelbox-assets-key-1&Signature=EFd_UPk4MonYp2Fg2r6j1Lt6-Sc",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 126,
+      "y": 351,
+      "width": 65,
+      "height": 72,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckd21vfn3000o3h60q71s4i3o",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F21e05761-7768-3c8c-9300-5c101dd86550-2_AV_s2_65.0.jpg?Expires=1596983127399&KeyName=labelbox-assets-key-1&Signature=T_icZk8K_RLoZeDL4PyePW1vNO8",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 201,
+      "y": 309,
+      "width": 85,
+      "height": 94,
+      "type": "Double"
+    },
+    {
+      "name": "Stairs",
+      "x": 162,
+      "y": 408,
+      "width": 144,
+      "height": 28
+    }
+  ]
+}{
+  "ID": "ckd21wl65000q3h60hjvx4513",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fef076bc5-3223-a681-3ec4-5eff7b21e5bf-2_AV_s2_277.0.jpg?Expires=1596983127399&KeyName=labelbox-assets-key-1&Signature=4Ms6cuZI1jacD8kYTWVpVMgW5ZI",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 105,
+      "y": 315,
+      "width": 31,
+      "height": 100,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 89,
+      "y": 411,
+      "width": 52,
+      "height": 23
+    },
+    {
+      "name": "Door",
+      "x": 155,
+      "y": 329,
+      "width": 49,
+      "height": 87,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 196,
+      "y": 365,
+      "width": 8,
+      "height": 20
+    },
+    {
+      "name": "Door",
+      "x": 344,
+      "y": 318,
+      "width": 43,
+      "height": 102,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 474,
+      "y": 319,
+      "width": 49,
+      "height": 98,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckd21x8x7000u3h603a0vet9p",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Ff492c9d5-1a29-48ed-289b-03e3eb0b269a-2_AV_s2_813.0.jpg?Expires=1596983127400&KeyName=labelbox-assets-key-1&Signature=oH4x5q3d8WVzEOmZHgVOX3RPshU",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 403,
+      "y": 266,
+      "width": 33,
+      "height": 72,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 390,
+      "y": 335,
+      "width": 63,
+      "height": 26
+    }
+  ]
+}{
+  "ID": "ckd21ysok00103h60rnqd3nga",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F8e962e99-ba6e-3c2f-10ca-b4695eb76637-2_AV_s1_44.0.jpg?Expires=1596983127401&KeyName=labelbox-assets-key-1&Signature=mq5WpbxJZ1JeyWkAEIzkYr1cs88",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 53,
+      "y": 290,
+      "width": 22,
+      "height": 80,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 19,
+      "y": 372,
+      "width": 54,
+      "height": 23
+    },
+    {
+      "name": "Door",
+      "x": 240,
+      "y": 303,
+      "width": 25,
+      "height": 73,
+      "type": "Single"
+    },
+    {
+      "name": "Ramp",
+      "x": 231,
+      "y": 375,
+      "width": 34,
+      "height": 25
+    },
+    {
+      "name": "Door",
+      "x": 363,
+      "y": 270,
+      "width": 48,
+      "height": 85,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 364,
+      "y": 357,
+      "width": 61,
+      "height": 41
+    }
+  ]
+}{
+  "ID": "ckd220bgk00173h60hpsj9grj",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Feef40e6e-f520-8a7e-9e87-ae408e2dc64f-2_AV_s1_534.0.jpg?Expires=1596983127402&KeyName=labelbox-assets-key-1&Signature=3GdmP9ae2qSKi2BahS68B2jNGng",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 56,
+      "y": 325,
+      "width": 58,
+      "height": 143,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 57,
+      "y": 388,
+      "width": 9,
+      "height": 27
+    },
+    {
+      "name": "Door",
+      "x": 132,
+      "y": 323,
+      "width": 76,
+      "height": 149,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 541,
+      "y": 320,
+      "width": 75,
+      "height": 150,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 536,
+      "y": 468,
+      "width": 91,
+      "height": 24
+    },
+    {
+      "name": "Knob",
+      "x": 546,
+      "y": 391,
+      "width": 12,
+      "height": 26
+    }
+  ]
+}{
+  "ID": "ckd221i0o00183h600fpwpeaz",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fe89aac51-a1f1-4819-8486-6e8cd38d5dcd-2_AV_s1_598.0.jpg?Expires=1596983127402&KeyName=labelbox-assets-key-1&Signature=RtfLYvp54zGEmLWdDqlm7qNXfII",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 294,
+      "y": 319,
+      "width": 34,
+      "height": 76,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 400,
+      "y": 316,
+      "width": 39,
+      "height": 79,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 396,
+      "y": 392,
+      "width": 48,
+      "height": 13
+    },
+    {
+      "name": "Door",
+      "x": 515,
+      "y": 322,
+      "width": 37,
+      "height": 69,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 579,
+      "y": 325,
+      "width": 36,
+      "height": 71,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 605,
+      "y": 357,
+      "width": 8,
+      "height": 14
+    },
+    {
+      "name": "Stairs",
+      "x": 512,
+      "y": 387,
+      "width": 44,
+      "height": 17
+    },
+    {
+      "name": "Stairs",
+      "x": 288,
+      "y": 390,
+      "width": 44,
+      "height": 18
+    }
+  ]
+}{
+  "ID": "ckd222mlh001e3h60sfqv7sam",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F59c4ee48-adc2-dab5-e1e3-f554c026c1d7-2_AV_s2_7.0.jpg?Expires=1596983127404&KeyName=labelbox-assets-key-1&Signature=pEWksgrQMuUyQcWyxsEtrQ1FQ00",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 162,
+      "y": 331,
+      "width": 34,
+      "height": 77,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 247,
+      "y": 331,
+      "width": 42,
+      "height": 77,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 295,
+      "y": 332,
+      "width": 36,
+      "height": 78,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckd223rou001g3h607y6m0da3",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F2d1688a9-daeb-1dd6-e4b0-cc5c3fd29fd5-2_AV_s2_153.0.jpg?Expires=1596983127404&KeyName=labelbox-assets-key-1&Signature=0nU8S2ArF7egV0GVa8mhYaDYO-4",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 202,
+      "y": 299,
+      "width": 43,
+      "height": 92,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 255,
+      "y": 299,
+      "width": 36,
+      "height": 84,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 379,
+      "y": 314,
+      "width": 40,
+      "height": 90,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 470,
+      "y": 318,
+      "width": 42,
+      "height": 87,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 609,
+      "y": 326,
+      "width": 31,
+      "height": 86,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 197,
+      "y": 385,
+      "width": 51,
+      "height": 18
+    },
+    {
+      "name": "Stairs",
+      "x": 250,
+      "y": 378,
+      "width": 48,
+      "height": 30
+    }
+  ]
+}{
+  "ID": "ckd225kbn001i3h60r6ifzfkm",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fa7176aa2-e09a-dc54-f0e1-5f7ff7bc08cc-2_AV_s2_365.0.jpg?Expires=1596983127404&KeyName=labelbox-assets-key-1&Signature=MRDnw9X3DqBstePudfGSpKYoS68",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 36,
+      "y": 321,
+      "width": 29,
+      "height": 72,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 35,
+      "y": 355,
+      "width": 8,
+      "height": 14
+    },
+    {
+      "name": "Stairs",
+      "x": 25,
+      "y": 390,
+      "width": 41,
+      "height": 20
+    },
+    {
+      "name": "Door",
+      "x": 83,
+      "y": 333,
+      "width": 34,
+      "height": 71,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 278,
+      "y": 332,
+      "width": 34,
+      "height": 73,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 321,
+      "y": 333,
+      "width": 31,
+      "height": 73,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 359,
+      "y": 331,
+      "width": 33,
+      "height": 76,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 555,
+      "y": 331,
+      "width": 30,
+      "height": 76,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 596,
+      "y": 332,
+      "width": 35,
+      "height": 74,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckd226efe001m3h60uy0y663h",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F6984e740-7e29-5c82-b1ba-0507e306cb19-2_AV_s2_927.0.jpg?Expires=1596983127405&KeyName=labelbox-assets-key-1&Signature=gFUImXZyXm3lUvwXB3T9Yeq0xEU",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 149,
+      "y": 327,
+      "width": 33,
+      "height": 76,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 275,
+      "y": 318,
+      "width": 41,
+      "height": 98,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 470,
+      "y": 326,
+      "width": 39,
+      "height": 93,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckd226xn0001o3h60bif8j4mt",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F5c270343-9f0d-7ac1-eb65-0657784fad41-2_AV_s2_1105.0.jpg?Expires=1596983127407&KeyName=labelbox-assets-key-1&Signature=AcJOKrGwr5t0mPggbBASXpCpNVc",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 194,
+      "y": 296,
+      "width": 93,
+      "height": 125,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckd227ot4001r3h60jkts0hxu",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F6d2b5cdd-4908-643d-d225-39e3ae9bd222-2_AV_s1_50.0.jpg?Expires=1596983127409&KeyName=labelbox-assets-key-1&Signature=025pV-u1ASINL9o8A-mTIrWvN5Y",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 600,
+      "y": 315,
+      "width": 40,
+      "height": 79,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 601,
+      "y": 354,
+      "width": 10,
+      "height": 16
+    }
+  ]
+}{
+  "ID": "ckd228x87001t3h60utshvt2a",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F04b23a37-7e64-f96c-6c9c-e1b758eb7cfe-2_AV_s1_132.0.jpg?Expires=1596983127410&KeyName=labelbox-assets-key-1&Signature=MwcRRNVogXyLwgGYhIZ54f93x3k",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 166,
+      "y": 366,
+      "width": 47,
+      "height": 73,
+      "type": "Double"
+    },
+    {
+      "name": "Knob",
+      "x": 185,
+      "y": 393,
+      "width": 6,
+      "height": 24
+    },
+    {
+      "name": "Knob",
+      "x": 189,
+      "y": 394,
+      "width": 5,
+      "height": 24
+    },
+    {
+      "name": "Door",
+      "x": 372,
+      "y": 370,
+      "width": 33,
+      "height": 72,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 424,
+      "y": 370,
+      "width": 62,
+      "height": 69,
+      "type": "Double"
+    },
+    {
+      "name": "Knob",
+      "x": 446,
+      "y": 396,
+      "width": 7,
+      "height": 15
+    },
+    {
+      "name": "Knob",
+      "x": 453,
+      "y": 395,
+      "width": 8,
+      "height": 17
+    },
+    {
+      "name": "Door",
+      "x": 490,
+      "y": 370,
+      "width": 50,
+      "height": 67,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckd229k9n001u3h60a0qk47c9",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fd5341612-a0f2-de3b-7d97-91245c007033-2_AVE_s2_1167.0.jpg?Expires=1596983127410&KeyName=labelbox-assets-key-1&Signature=HxngrOYuxGAZaMIYmh7SCHKR6Ss",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 85,
+      "y": 313,
+      "width": 80,
+      "height": 174,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 79,
+      "y": 484,
+      "width": 94,
+      "height": 34
+    },
+    {
+      "name": "Door",
+      "x": 448,
+      "y": 313,
+      "width": 56,
+      "height": 142,
+      "type": "Single"
+    },
+    {
+      "name": "Ramp",
+      "x": 446,
+      "y": 454,
+      "width": 90,
+      "height": 60
+    }
+  ]
+}{
+  "ID": "ckd229vug001w3h60h6p4m1zb",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F89f9baf6-3c13-a67c-3da3-8410acabae37-2_AV_s1_344.0.jpg?Expires=1596983127410&KeyName=labelbox-assets-key-1&Signature=IEwNqkKvMTeECAiyNRKe8W_XYLc",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 223,
+      "y": 338,
+      "width": 29,
+      "height": 58,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckd22alc5001y3h60ulfbcxoe",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F4ee9efa6-ab4c-ba72-887c-85ad12332bd1-2_AV_s1_540.0.jpg?Expires=1596983127411&KeyName=labelbox-assets-key-1&Signature=H3ZjC74x7bdXs2usvbr6PYnA0Vs",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 236,
+      "y": 328,
+      "width": 68,
+      "height": 144,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 419,
+      "y": 335,
+      "width": 67,
+      "height": 138,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 408,
+      "y": 471,
+      "width": 96,
+      "height": 22
+    }
+  ]
+}{
+  "ID": "ckd22b0vp00203h60z247267j",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F85ac5ac3-3ae1-9164-a3d2-1088898d9663-2_AV_s1_908.0.jpg?Expires=1596983127411&KeyName=labelbox-assets-key-1&Signature=VWC5m9Gdb-rGVD7aGXttBDEYp6s",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 48,
+      "y": 368,
+      "width": 37,
+      "height": 67,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 309,
+      "y": 357,
+      "width": 52,
+      "height": 58,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckd22bcri00223h608r6n8pr4",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fdbd3a0a4-8ee4-1907-eed8-91629ed11b6e-2_AV_s1_1092.0.jpg?Expires=1596983127411&KeyName=labelbox-assets-key-1&Signature=xo7UKdPdZExiRR1MaZF9NjL8jRU",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 484,
+      "y": 327,
+      "width": 30,
+      "height": 81,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckd22cdnh00233h60lg6t90rb",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F4324b263-775f-0432-dd68-cdad25202eef-2_AV_s1_1222.0.jpg?Expires=1596983127412&KeyName=labelbox-assets-key-1&Signature=MDwIS3Tt4hVm-0R_BPW9nG0EEqY",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 22,
+      "y": 354,
+      "width": 40,
+      "height": 115,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 14,
+      "y": 466,
+      "width": 55,
+      "height": 25
+    },
+    {
+      "name": "Door",
+      "x": 372,
+      "y": 346,
+      "width": 50,
+      "height": 118,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 371,
+      "y": 461,
+      "width": 59,
+      "height": 21
+    },
+    {
+      "name": "Door",
+      "x": 440,
+      "y": 342,
+      "width": 47,
+      "height": 119,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 439,
+      "y": 458,
+      "width": 61,
+      "height": 20
+    },
+    {
+      "name": "Door",
+      "x": 510,
+      "y": 348,
+      "width": 54,
+      "height": 122,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckd22damd00243h60kjlsp2z1",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Ff8eba8e3-244c-855e-4fc7-f1cba69c4205-2_AV_s2_13.0.jpg?Expires=1596983127412&KeyName=labelbox-assets-key-1&Signature=Ax7e_07dtqBWNb4GYIxRT7VDKvI",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 7,
+      "y": 347,
+      "width": 111,
+      "height": 86,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 214,
+      "y": 348,
+      "width": 32,
+      "height": 73,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 364,
+      "y": 345,
+      "width": 36,
+      "height": 79,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 438,
+      "y": 328,
+      "width": 38,
+      "height": 83,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 436,
+      "y": 409,
+      "width": 48,
+      "height": 25
+    },
+    {
+      "name": "Door",
+      "x": 600,
+      "y": 341,
+      "width": 33,
+      "height": 71,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckd22domt00263h60xeaerpoh",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F1f59b91b-159d-ca6d-b790-42a7cf4d4789-2_AV_s2_159.0.jpg?Expires=1596983127413&KeyName=labelbox-assets-key-1&Signature=l9aJ7TU-UjMaXeLtxeC3_TkQtEE",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 122,
+      "y": 315,
+      "width": 91,
+      "height": 87,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckd22e4b800273h60gw8055rh",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fae3faca1-c94e-97c1-6b5b-88355349eb6f-2_AV_s2_289.0.jpg?Expires=1596983127413&KeyName=labelbox-assets-key-1&Signature=Fyf1ZSxawyd4GGLJMl1tnw6bB1c",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 213,
+      "y": 297,
+      "width": 92,
+      "height": 121,
+      "type": "Double"
+    },
+    {
+      "name": "Knob",
+      "x": 251,
+      "y": 351,
+      "width": 8,
+      "height": 22
+    },
+    {
+      "name": "Knob",
+      "x": 259,
+      "y": 351,
+      "width": 8,
+      "height": 22
+    }
+  ]
+}{
+  "ID": "ckd22eg01002a3h60xktutsts",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F4e10ebce-cd11-fdce-8e59-000fb99db0e6-2_AV_s2_565.0.jpg?Expires=1596983127413&KeyName=labelbox-assets-key-1&Signature=5Eu3xBHmJELMX9oflSqzZjvAtgM",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 181,
+      "y": 254,
+      "width": 126,
+      "height": 194,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckd22eqk5002c3h60wvcuutvd",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F8a0df7c1-df39-9f9e-eb6e-2dc373fbcb31-2_AV_s2_933.0.jpg?Expires=1596983127414&KeyName=labelbox-assets-key-1&Signature=QfF1kiz_StFgD2fk5sBZro_JHzc",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 386,
+      "y": 290,
+      "width": 66,
+      "height": 138,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckd22g09g002k3h601ybmykvh",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fd23bbb0d-2b4f-63f3-14c6-3f08871541f6-2_AVE_s2_1173.0.jpg?Expires=1596983127418&KeyName=labelbox-assets-key-1&Signature=7GprebjV530fo0AAwt4GnZQECpM",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 12,
+      "y": 307,
+      "width": 66,
+      "height": 172,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 0,
+      "y": 474,
+      "width": 81,
+      "height": 32
+    },
+    {
+      "name": "Door",
+      "x": 437,
+      "y": 299,
+      "width": 78,
+      "height": 175,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 433,
+      "y": 474,
+      "width": 88,
+      "height": 38
+    },
+    {
+      "name": "Door",
+      "x": 548,
+      "y": 311,
+      "width": 80,
+      "height": 175,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 545,
+      "y": 483,
+      "width": 91,
+      "height": 30
+    },
+    {
+      "name": "Knob",
+      "x": 551,
+      "y": 390,
+      "width": 10,
+      "height": 23
+    }
+  ]
+}{
+  "ID": "ckd22gpme002l3h60sbj4t2qi",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F4021c78a-447a-f9bb-fc04-afdc2e80c053-2_AV_s1_268.0.jpg?Expires=1596983127418&KeyName=labelbox-assets-key-1&Signature=AQcSc47jCDLMKIGZcngcCjZMS-0",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 0,
+      "y": 342,
+      "width": 51,
+      "height": 62,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 461,
+      "y": 344,
+      "width": 56,
+      "height": 70,
+      "type": "Double"
+    },
+    {
+      "name": "Door",
+      "x": 197,
+      "y": 337,
+      "width": 27,
+      "height": 62,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckd22h7y8002n3h604opekg35",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fce0d7565-3c7a-79be-8388-6725614e5bfb-2_AV_s1_416.0.jpg?Expires=1596983127418&KeyName=labelbox-assets-key-1&Signature=oL2-2vkP-qvaCCNN0NadphX7-Gw",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 56,
+      "y": 358,
+      "width": 41,
+      "height": 83,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckd22iu8l002q3h60ju3zbliv",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F660b6cf3-dc58-cc9f-babf-9937737a71c5-2_AV_s1_914.0.jpg?Expires=1596983127419&KeyName=labelbox-assets-key-1&Signature=5nlotSdEk_IzOAFtS_4MjHlCQQo",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 372,
+      "y": 363,
+      "width": 77,
+      "height": 69,
+      "type": "Automatic"
+    }
+  ]
+}{
+  "ID": "ckd22j6rf002t3h6042hrv5bp",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F8b2b2b32-d208-1276-28ba-43c797548e3b-2_AV_s1_1228.0.jpg?Expires=1596983127419&KeyName=labelbox-assets-key-1&Signature=ZbzyW4spvFMTqDvjgbsUr9Sn4kg",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 125,
+      "y": 353,
+      "width": 91,
+      "height": 120,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckd22jwpl002v3h60ok2dofdy",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F3339fc2e-7898-9bd2-520e-1d2d12dd1122-2_AV_s2_83.0.jpg?Expires=1596983127419&KeyName=labelbox-assets-key-1&Signature=rBz7TNCRQl3ok-mbiNxgiJ6QYI4",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 12,
+      "y": 179,
+      "width": 95,
+      "height": 180,
+      "type": "Double"
+    },
+    {
+      "name": "Stairs",
+      "x": 0,
+      "y": 373,
+      "width": 70,
+      "height": 80
+    },
+    {
+      "name": "Knob",
+      "x": 51,
+      "y": 287,
+      "width": 10,
+      "height": 29
+    },
+    {
+      "name": "Knob",
+      "x": 60,
+      "y": 287,
+      "width": 8,
+      "height": 29
+    }
+  ]
+}{
+  "ID": "ckd22k57m002w3h604xnk05ur",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Faf1581a4-be1e-67ff-7317-e271494bf57c-2_AV_s2_165.0.jpg?Expires=1596983127420&KeyName=labelbox-assets-key-1&Signature=Oq_mD_z9pcggGxIWBkLJ1Yzm2Lc",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 234,
+      "y": 352,
+      "width": 37,
+      "height": 56,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckd22klmu002x3h60996niwy2",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fe3c22961-934f-7e02-7609-c48b7c9e40d8-2_AV_s2_295.0.jpg?Expires=1596983127420&KeyName=labelbox-assets-key-1&Signature=zOPOYaodzGRAivSJyfebAWyow8E",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 113,
+      "y": 320,
+      "width": 42,
+      "height": 81,
+      "type": "Single"
+    },
+    {
+      "name": "Ramp",
+      "x": 10,
+      "y": 406,
+      "width": 379,
+      "height": 38
+    }
+  ]
+}{
+  "ID": "ckd22kyc100313h60ysiensyp",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fa0ecf884-bda9-0664-0355-aa82f63149b4-2_AV_s2_831.0.jpg?Expires=1596983127422&KeyName=labelbox-assets-key-1&Signature=DzS5YtHQhGpBfBpF7H3UO7rBFUw",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 208,
+      "y": 315,
+      "width": 53,
+      "height": 119,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckd22llun00333h604czqfwyn",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F1c2a0639-f37d-fa56-3d20-1d3c33e6ed1a-2_AV_s2_1003.0.jpg?Expires=1596983127422&KeyName=labelbox-assets-key-1&Signature=SMymXxe6OhUIvuqR4WbQlJhfd0E",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 568,
+      "y": 335,
+      "width": 70,
+      "height": 107,
+      "type": "Double"
+    },
+    {
+      "name": "Knob",
+      "x": 601,
+      "y": 383,
+      "width": 6,
+      "height": 14
+    },
+    {
+      "name": "Knob",
+      "x": 607,
+      "y": 381,
+      "width": 9,
+      "height": 19
+    }
+  ]
+}{
+  "ID": "ckd22m51o00343h60gs6ahrgs",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F98a09be3-343c-5807-1bc6-a391f3b97cb6-2_AV_s2_1183.0.jpg?Expires=1596983127422&KeyName=labelbox-assets-key-1&Signature=bMHJwsXcB1S0h5_GGceK1Wfuq_M",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 249,
+      "y": 317,
+      "width": 53,
+      "height": 136,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 493,
+      "y": 334,
+      "width": 51,
+      "height": 118,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 589,
+      "y": 333,
+      "width": 50,
+      "height": 122,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckd22n42600373h60psticotw",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fe96ce64e-0a8f-530e-188e-a59be58796e9-2_AV_s1_62.0.jpg?Expires=1596983127423&KeyName=labelbox-assets-key-1&Signature=DZjh-QYvamTh6DVuoLN7XeU5UyM",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 12,
+      "y": 313,
+      "width": 46,
+      "height": 100,
+      "type": "Single"
+    },
+    {
+      "name": "Knob",
+      "x": 46,
+      "y": 356,
+      "width": 10,
+      "height": 15
+    },
+    {
+      "name": "Door",
+      "x": 294,
+      "y": 216,
+      "width": 36,
+      "height": 84,
+      "type": "Single"
+    },
+    {
+      "name": "Door",
+      "x": 552,
+      "y": 308,
+      "width": 43,
+      "height": 101,
+      "type": "Single"
+    },
+    {
+      "name": "Stairs",
+      "x": 241,
+      "y": 306,
+      "width": 121,
+      "height": 118
+    }
+  ]
+}{
+  "ID": "ckd22njto003a3h605xl1e9eo",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F301f5528-b482-7017-4d12-d32dce6881cd-2_AVE_s2_1179.0.jpg?Expires=1596983127423&KeyName=labelbox-assets-key-1&Signature=YVlTnnGVr0WbarrIl-0Y6VSOLsY",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 0,
+      "y": 267,
+      "width": 45,
+      "height": 179,
+      "type": "Single"
+    }
+  ]
+}{
+  "ID": "ckd22nvrg003b3h60k86fpjz9",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2Fca6ef324-ba85-8a41-e2fa-738ecc789230-2_AV_s1_274.0.jpg?Expires=1596983127423&KeyName=labelbox-assets-key-1&Signature=VIokH-VVM9LVcfweIX0o5IsH4ZQ",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 513,
+      "y": 331,
+      "width": 59,
+      "height": 67,
+      "type": "Double"
+    }
+  ]
+}{
+  "ID": "ckd22o6vj003d3h600022zhts",
+  "Original Image": "https://storage.labelbox.com/cjvii2o9ehvtw0804li72x0u9%2F16fb6730-ef4c-8394-a42f-92196c681a11-2_AV_s1_422.0.jpg?Expires=1596983127424&KeyName=labelbox-assets-key-1&Signature=qYM01F3QDB_XxHLuJwOEGecTTIA",
+  "Annotations": [
+    {
+      "name": "Door",
+      "x": 475,
+      "y": 350,
+      "width": 43,
+      "height": 84,
+      "type": "Single"
+    }
+  ]
+}
